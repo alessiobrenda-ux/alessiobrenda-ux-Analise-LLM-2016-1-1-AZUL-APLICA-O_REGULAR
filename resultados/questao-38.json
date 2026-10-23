@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 38,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-38.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Analisar diferentes processos de produção ou circulação de riquezas e suas implicações sócio-espaciais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "História do Brasil - Anos 1950 e 1960",
+    "conteudos_relacionados": [
+      "Modernização e industrialização brasileira",
+      "Desigualdades regionais e sociais no desenvolvimentismo"
+    ],
+    "assunto": "Desenvolvimentismo e propaganda publicitária",
+    "objeto_de_analise": "Anúncio publicitário do automóvel Simca Chambord e a paisagem de Brasília",
+    "fenomeno_conceito": "Desenvolvimento industrial excludente e desigualdade regional"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O anúncio exalta a modernidade (Brasília e o automóvel), e não a tradição colonial."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A Simca era uma montadora de capital estrangeiro (francesa), o que indica aumento, e não redução, da influência estrangeira."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O período dos anos 1950 e 1960 no Brasil não foi marcado pela ampliação expressiva da imigração internacional em comparação a períodos anteriores."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "O processo de industrialização e modernização liderado pelo governo JK concentrou-se fortemente na região Centro-Sul do país, omitindo e intensificando as desigualdades regionais e sociais."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O período caracterizou-se pela concentração industrial (principalmente no eixo Rio-São Paulo), e não pela desconcentração."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a propaganda desenvolvimentista dos anos 1950/1960 associada à construção de Brasília e à indústria automobilística.",
+      "A crítica histórica subjacente é que esse progresso e modernidade ostentados ocultavam as profundas desigualdades regionais e sociais do país."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

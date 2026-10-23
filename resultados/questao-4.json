@@ -1,0 +1,99 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 4,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-4.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H9",
+      "descricao": "Comparar o significado histórico-geográfico das organizações políticas e socioeconômicas em escala local, regional ou mundial."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Redes urbanas e hierarquia urbana",
+    "conteudos_relacionados": [
+      "Polarização e centralidade urbana"
+    ],
+    "assunto": "Urbanização",
+    "objeto_de_analise": "Relação de influência exercida por uma metrópole sobre outras cidades",
+    "fenomeno_conceito": "Região polarizada"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Frente pioneira refere-se ao avanço da fronteira agrícola ou ocupação de novas terras, o que não se aplica ao texto sobre a rede urbana do Rio de Janeiro."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Zona de transição é uma área de passagem entre dois biomas ou regiões distintas, sem relação com a centralidade de uma rede urbana."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Região polarizada descreve a área de influência exercida por uma cidade central (metrópole) sobre um conjunto de outras cidades que dela dependem economicamente e de serviços."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Conurbação é a fusão física das manchas urbanas de duas ou mais cidades, o que não descreve a relação de influência à distância apresentada no texto."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Periferia metropolitana diz respeito aos municípios lindeiros que compõem a mancha urbana contínua ou integrada diretamente à metrópole, e não a toda a rede de cidades de diferentes estados mencionada."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto aborda a influência da cidade do Rio de Janeiro sobre outras cidades e estados, caracterizando o conceito de rede urbana e polarização."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q4",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 41,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-41.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Modernidade",
+    "conteudos_relacionados": [
+      "Transformações sociais",
+      "Crítica social"
+    ],
+    "assunto": "A experiência da modernidade e suas contradições",
+    "objeto_de_analise": "Trecho da obra 'Tudo que é sólido desmancha no ar' de Marshall Berman",
+    "fenomeno_conceito": "Modernidade e ambivalência social"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O texto aponta que a modernidade traz promessas de transformação, mas também ameaças de destruição, caracterizando-se por uma 'unidade paradoxal' ou 'unidade de desunidade', o que corresponde a uma dinâmica social contraditória."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O texto fala em unidade paradoxal e ameaça de destruição, o que afasta a ideia de uma interação puramente harmônica."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A modernidade descrita no texto envolve transformações radicais e ameaças de destruição, não sendo caracterizada como um fenômeno estável."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto aborda a experiência da modernidade e sua capacidade de unir a espécie humana de forma paradoxal, e não um sistema internacional decadente."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Apesar de mencionar a anulação de fronteiras, a tônica do texto está nas contradições e paradoxos ('unidade de desunidade'), e não estritamente em um processo homogeneizador simples."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-01T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto destaca a dualidade da modernidade (promessa e ameaça, unidade e desunidade)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

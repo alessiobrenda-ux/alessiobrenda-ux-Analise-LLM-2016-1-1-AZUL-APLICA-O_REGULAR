@@ -1,0 +1,104 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 70,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-70.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Transformações Químicas e Energia",
+    "conteudos_relacionados": [
+      "Transformações nucleares"
+    ],
+    "assunto": "Datação por Carbono-14",
+    "objeto_de_analise": "Princípio físico-químico da técnica de datação por carbono-14",
+    "fenomeno_conceito": "Radioatividade e decaimento radioativo"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A datação por carbono-14 baseia-se na premissa de que a proporção entre os isótopos carbono-14 e carbono-12 na atmosfera (e em organismos vivos) manteve-se constante ao longo do tempo. Após a morte, o organismo cessa a absorção de C-14, que decresce a uma taxa conhecida (meia-vida), permitindo estimar a idade pela comparação da proporção atual com a proporção conhecida na atmosfera."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O carbono-12 é um isótopo estável e não se decompõe após a morte do organismo."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Não há fixação maior de carbono-14 após a morte; ao contrário, o organismo deixa de trocar carbono com o ambiente."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O carbono-12 não é emitido de forma radioativa pelos tecidos após a morte."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Ocorre o decaimento do carbono-14 (instável) em nitrogênio-14, e não a transformação de carbono-12 em carbono-14."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidências": [
+      "Questão clássica do ENEM sobre radioatividade e datação por carbono-14."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016",
+      "arquivo_matriz": "enem_matriz_referencia"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

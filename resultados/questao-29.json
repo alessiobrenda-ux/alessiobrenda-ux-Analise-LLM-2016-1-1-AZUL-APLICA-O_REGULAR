@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 29,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-29.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Analisar a ação dos estados nacionais no que se refere à dinâmica dos fluxos populacionais e no enfrentamento de problemas de ordem econômico-social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Reconhecer a dinâmica da organização dos movimentos sociais e a importância da participação da coletividade na transformação da realidade histórico-geográfica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Espaço urbano",
+    "conteudos_relacionados": [
+      "Função social da cidade",
+      "Segregação espacial",
+      "Políticas públicas"
+    ],
+    "assunto": "Urbanização e desigualdade socioespacial",
+    "objeto_de_analise": "O conceito de função social da cidade e sua relação com políticas públicas voltadas para os excluídos",
+    "fenomeno_conceito": "Segregação urbana e direito à cidade"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A qualificação de serviços públicos em bairros periféricos atende à população marginalizada pelo mercado imobiliário formal, garantindo o acesso aos benefícios urbanos e viabilizando a função social da cidade."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A implantação de centros comerciais em eixos rodoviários geralmente atende à lógica do mercado e da circulação de mercadorias, não focando diretamente na inclusão social e habitacional da população periférica."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A proibição de construções em regiões íngremes, sem a devida oferta de alternativas habitacionais, costuma expulsar ainda mais os setores de baixa renda, em vez de garantir a função social da cidade."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A disseminação de equipamentos culturais em locais turísticos privilegia o setor terciário e o consumo cultural elitizado ou voltado para o turismo, desconsiderando as necessidades básicas das periferias."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A desregulamentação do setor imobiliário em áreas favelizadas agravaria a precariedade e a vulnerabilidade social e habitacional, indo na contramão da regulação social necessária."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto aborda a função social da cidade e a necessidade de contemplar todos os moradores, especialmente os excluídos.",
+      "A alternativa A aponta para a qualificação de serviços públicos em áreas periféricas, medida que combate a desigualdade socioespacial."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q29",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

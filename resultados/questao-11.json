@@ -1,0 +1,104 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 11,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-11.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [
+      "H3",
+      "H5"
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Patrimônio cultural imaterial",
+    "conteudos_relacionados": [
+      "Diversidade cultural",
+      "Memória social"
+    ],
+    "assunto": "Patrimônio cultural e saberes tradicionais",
+    "objeto_de_analise": "Relação entre ofício artesanal e preservação da identidade cultural",
+    "fenomeno_conceito": "Patrimônio cultural imaterial e saberes tradicionais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A imagem retrata o trabalho de um artesão na fabricação de um instrumento musical, o que não caracteriza o objeto necessariamente como um artefato de cunho sagrado ou religioso."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora o objeto resultante seja material, o foco do texto e do contexto de valorização do patrimônio (como ofícios tradicionais registrados pelo IPHAN) recai sobre o saber-fazer, a técnica e a transmissão cultural, caracterizando o patrimônio imaterial."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O ofício do artesão retratado pertence às tradições populares contemporâneas e vivas, não se tratando de vestígios materiais de civilizações antigas estudados pela arqueologia."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A salvaguarda de bens culturais pelo Estado visa à preservação da memória, da identidade e da diversidade cultural, e não à sua mercantilização ou valor comercial."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "A imagem de um artesão trabalhando na confecção de um instrumento musical, associada ao texto sobre novas formas de conceber o patrimônio cultural nacional, remete aos saberes e fazeres tradicionais, fundamentais para a preservação da identidade cultural dos grupos sociais."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "Questão oficial do ENEM 2016.",
+      "Associa imagem de ofício artesanal com patrimônio cultural imaterial e saberes tradicionais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

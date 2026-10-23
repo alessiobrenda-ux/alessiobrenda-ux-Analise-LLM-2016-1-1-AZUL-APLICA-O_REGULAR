@@ -1,0 +1,101 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 14,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-14.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H12",
+      "descricao": "Analisar o papel da justiça como instituição na organização das sociedades."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Era Vargas",
+    "conteudos_relacionados": [
+      "Estado Novo",
+      "Legislação Trabalhista"
+    ],
+    "assunto": "Criação da Justiça do Trabalho",
+    "objeto_de_analise": "O papel do Estado na regulação e controle dos conflitos de trabalho durante o Estado Novo.",
+    "fenomeno_conceito": "Populismo e Trabalhismo"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": false,
+      "justificativa": "A criação da Justiça do Trabalho visava controlar e conter, e não legitimar, os protestos fabris e operários."
+    },
+    {
+      "alternativa": "B",
+      "corretude": true,
+      "justificativa": "A Justiça do Trabalho foi criada no contexto do Estado Novo com o objetivo de mediar e ordenar as relações e os conflitos entre capital e trabalho, subordinando o movimento operário ao controle estatal."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "O Estado Novo instituiu a unicidade sindical e o atrelamento dos sindicatos ao Estado, extinguindo o pluralismo sindical."
+    },
+    {
+      "alternativa": "D",
+      "corretude": false,
+      "justificativa": "O período do Estado Novo caracterizou-se pelo autoritarismo e pelo intervencionismo estatal, afastando-se dos princípios liberais clássicos."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "A instituição não teve como objetivo a unificação de salários profissionais, mas sim o controle institucional das relações laborais."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a criação da Justiça do Trabalho no contexto do Estado Novo e sua função regulatória.",
+      "A habilidade H12 da matriz de Ciências Humanas trata especificamente de analisar o papel da justiça como instituição na organização das sociedades."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

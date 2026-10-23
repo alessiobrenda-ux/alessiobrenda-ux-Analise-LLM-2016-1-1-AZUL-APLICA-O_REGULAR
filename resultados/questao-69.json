@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 69,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-69.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H9",
+      "descricao": "Compreender a importância dos ciclos biogeoquímicos ou do fluxo energia para a vida, ou da ação de agentes ou fenômenos que podem causar alterações nesses processos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia",
+    "conteudos_relacionados": [
+      "Ecologia e ciências ambientais",
+      "Moléculas, células e tecidos"
+    ],
+    "assunto": "Impactos ambientais e qualidade nutricional de alimentos",
+    "objeto_de_analise": "Absorção de nitrato pelas plantas em função do aumento de dióxido de carbono",
+    "fenomeno_conceito": "Efeito do aumento de CO2 na assimilação de nitrogênio e síntese proteica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O amido é um carboidrato e sua produção depende principalmente da fotossíntese (glicose), não sendo o nitrato o fator limitante primário para sua síntese no contexto apresentado."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A frutose é um monossacarídeo obtido pela fotossíntese e metabolismo de carboidratos, não sofrendo impacto direto e primário da redução da absorção de nitrato."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Os lipídeos são compostos formados por ácidos graxos e glicerol, cuja síntese não depende diretamente da absorção de íons nitrato pelas plantas."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A celulose é um polissacarídeo estrutural composto por glicose, sendo diretamente relacionada à parede celular vegetal e à fotossíntese, e não diretamente à deficiência de nitrato."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "O nitrato é a principal fonte de nitrogênio para a síntese de aminoácidos e, consequentemente, de proteínas nas plantas. Com a redução da absorção de nitrato devido aos níveis elevados de CO2, a quantidade de proteínas nos grãos de trigo diminui."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto menciona a redução da absorção de nitrato pelas plantas.",
+      "O nitrato é essencial para a obtenção de nitrogênio, elemento fundamental na composição dos aminoácidos e proteínas.",
+      "A alternativa E aponta corretamente para proteínas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q69",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

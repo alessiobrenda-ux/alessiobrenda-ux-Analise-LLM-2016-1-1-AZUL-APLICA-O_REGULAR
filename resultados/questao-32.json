@@ -1,0 +1,101 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 32,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-32.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Sociologia",
+    "conteudos_relacionados": [
+      "Teoria Sociológica Clássica",
+      "Émile Durkheim"
+    ],
+    "assunto": "Método sociológico em Émile Durkheim",
+    "objeto_de_analise": "O estatuto científico da sociologia e o método de investigação",
+    "fenomeno_conceito": "Positivismo e cientificismo nas ciências sociais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Durkheim defende a superação das sínteses puramente filosóficas em favor de uma ciência empírica."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O autor critica expressamente as intuições rápidas e exames sumários."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Durkheim busca objetividade e rigor científico, afastando-se de formulações puramente subjetivas."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "Durkheim propõe que a sociologia adote métodos rigorosos de investigação semelhantes aos das ciências naturais para tratar os fatos sociais como coisas."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O texto não aborda engajamento político, mas sim a necessidade de rigor metodológico na sociologia."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidências": [
+      "O texto critica generalizações filosóficas e intuições rápidas, defendendo a descoberta de leis na realidade social.",
+      "Durkheim é o principal expoente do positivismo na sociologia, defendendo métodos inspirados nas ciências naturais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

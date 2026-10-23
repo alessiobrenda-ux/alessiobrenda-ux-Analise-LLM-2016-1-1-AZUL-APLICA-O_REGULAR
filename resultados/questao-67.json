@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 67,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-67.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estados físicos da matéria",
+    "conteudos_relacionados": [
+      "Mudanças de estado",
+      "Forças intermoleculares"
+    ],
+    "assunto": "Mudanças de estado físico",
+    "objeto_de_analise": "Transições entre as fases sólida, líquida e gasosa",
+    "fenomeno_conceito": "Organização estrutural e espacial das moléculas nos diferentes estados físicos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "As mudanças de estado físico são fenômenos físicos que envolvem apenas a alteração da distância e organização entre as moléculas, sem que ocorra quebra ou troca de átomos entre elas."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Transmutação nuclear altera o núcleo dos átomos, o que não ocorre em simples mudanças de estado físico da matéria."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A redistribuição de prótons alteraria a identidade química dos elementos, o que não acontece durante a fusão, ebulição ou sublimação."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "As mudanças de fase (sólida, líquida, gasosa) estão associadas à variação da distância e da organização espacial entre as moléculas que constituem o material, decorrentes da variação de energia térmica."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A alteração nas proporções de isótopos está relacionada a processos nucleares, não a mudanças de estado físico macroscópicas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-01T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda as mudanças de estado físico da matéria e sua interpretação microscópica.",
+      "A alternativa D descreve corretamente que as transições de fase envolvem a mudança na organização espacial dos constituintes (moléculas)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

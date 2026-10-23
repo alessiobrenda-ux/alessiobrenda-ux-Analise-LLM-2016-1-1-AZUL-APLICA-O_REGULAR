@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 77,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-77.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H20",
+      "descricao": "Caracterizar causas ou efeitos dos movimentos de partículas, substâncias, objetos ou corpos celestes."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Quantidade de movimento e colisões",
+    "conteudos_relacionados": [
+      "Conservação da quantidade de movimento",
+      "Cinemática escalar"
+    ],
+    "assunto": "Física Mecânica",
+    "objeto_de_analise": "Dados de posição e tempo em um experimento de colisão inelástica em trilho de ar",
+    "fenomeno_conceito": "Conservação da quantidade de movimento linear",
+    "fenomeno_conceito_en": "Conservation of linear momentum"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Valor incorreto obtido por erro na aplicação do princípio de conservação da quantidade de movimento ou cálculo equivocado da velocidade."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Valor incorreto derivado de proporção inadequada das massas."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Calculando a velocidade antes do choque (carrinho 1: delta S = 15 cm em delta t = 1 s, v1 = 15 cm/s) e após o choque (ambos: delta S = 15 cm em delta t = 3 s, v' = 5 cm/s). Usando a conservação da quantidade de movimento: m1 * v1 = (m1 + m2) * v' => 150 * 15 = (150 + m2) * 5 => 2250 = 750 + 5 * m2 => 5 * m2 = 1500 => m2 = 300,0 g."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Valor incorreto resultante de considerações errôneas sobre a velocidade final do sistema."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Valor incorreto que superestima a massa do carrinho 2."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "Uso da tabela com dados de posição e tempo",
+      "Aplicação do princípio da conservação da quantidade de movimento"
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

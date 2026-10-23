@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 65,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-65.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais."
+    },
+    "habilidade_principal": {
+      "id": "H14",
+      "descricao": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H28",
+        "descricao": "Associar características adaptativas dos organismos com seu modo de vida ou com seus limites de distribuição em diferentes ambientes, em especial em ambientes brasileiros."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia",
+    "conteudos_relacionados": [
+      "Ecologia",
+      "Fisiologia Animal"
+    ],
+    "assunto": "Adaptações relacionadas a hábitos alimentares e toxinas anticoagulantes",
+    "objeto_de_analise": "Relação entre o hábito alimentar hematófago e a presença de substâncias anticoagulantes na saliva de animais",
+    "fenomeno_conceito": "Hematofagia e anticoagulantes naturais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. Moluscos fitófagos alimentam-se de vegetais e não possuem substâncias anticoagulantes de interesse farmacêutico para esse fim."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. Moscas saprófagas alimentam-se de matéria orgânica em decomposição e não são fontes de anticoagulantes sanguíneos."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta. Pássaros carnívoros alimentam-se de carne, mas não utilizam mecanismos de perfuração de vasos sanguíneos que exijam anticoagulantes salivares potentes como os hematófagos."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. Morcegos frugívoros alimentam-se de frutos. Apenas os morcegos hematófagos (como o vampiro) possuem propriedades anticoagulantes na saliva."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "analise": "Correta. Mosquitos hematófagos alimentam-se de sangue e, para isso, injetam substâncias anticoagulantes em suas vítimas para impedir a coagulação durante a alimentação, sendo de grande interesse para a indústria farmacêutica."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-13T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a relação entre hábitos alimentares (hematofagia) e adaptações evolutivas (presença de anticoagulantes na saliva), o que se alinha diretamente com a habilidade H14 e H28 da matriz de Ciências da Natureza."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

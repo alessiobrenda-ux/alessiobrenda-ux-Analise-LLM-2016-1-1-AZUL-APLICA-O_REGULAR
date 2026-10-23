@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 15,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-15.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H14",
+        "descricao": "Comparar diferentes pontos de vista, presentes em textos analíticos e interpretativos, sobre situação ou fatos de natureza histórico-geográfica acerca das instituições sociais, políticas e econômicas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia contemporânea",
+    "conteudos_relacionados": [
+      "Escola de Frankfurt",
+      "Indústria cultural"
+    ],
+    "assunto": "A crítica da Escola de Frankfurt à Indústria Cultural e ao consumo de massa",
+    "objeto_de_analise": "O trecho da obra 'Dialética do Esclarecimento' de Adorno e Horkheimer sobre a liberdade de escolha na sociedade capitalista",
+    "fenomeno_conceito": "Alienação e padronização cultural na sociedade contemporânea"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não trata a liberdade como um legado social positivo a ser celebrado, mas sim como uma falsa liberdade condicionada pela economia."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A liberdade descrita pelos autores não é um patrimônio político conquistado, mas uma ilusão mascarada pelas engrenagens da indústria cultural."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A escolha abordada no texto está atrelada à coerção econômica e à padronização da indústria cultural, e não a um produto estrito da moralidade."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A alternativa contraria a visão crítica de Adorno e Horkheimer, que enxergam essa suposta liberdade como uma armadilha e não como uma conquista."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "O texto aponta que a liberdade de escolha na civilização ocidental contemporânea é uma ilusão ('liberdade de escolher o que é sempre a mesma coisa'), refletindo a coerção econômica da indústria cultural."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-11-20",
+    "datetime": "2024-12-10T15:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão aborda a teoria da Indústria Cultural de Adorno e Horkheimer.",
+      "O gabarito oficial do ENEM 2016 para a questão 15 (caderno azul/amarelo/amarelo/branco dependendo do ano, mas especificamente esta questão da Indústria Cultural) é a alternativa E."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

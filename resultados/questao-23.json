@@ -1,0 +1,101 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 23,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-23.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia Antiga",
+    "conteudos_relacionados": [
+      "Pré-socráticos",
+      "Ontologia"
+    ],
+    "assunto": "A oposição entre Heráclito e Parmênides acerca do Ser",
+    "objeto_de_analise": "Fragmentos filosóficos de Heráclito e Parmênides",
+    "fenomeno_conceito": "Ontologia e devir versus ser imutável"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O pensamento sistemático consolida-se mais tarde, com Platão e Aristóteles, não sendo o foco principal da discussão pré-socrática sobre a natureza do ser."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Os fragmentos pertencem ao período cosmológico da filosofia (pré-socráticos), afastando-se das explicações mitológicas."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A questão aborda a natureza do ser (ontologia), contrapondo o mobilismo de Heráclito (o vir a ser) e o imobilismo de Parmênides (o ser eterno e imutável)."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A retórica sofística diz respeito à argumentação e à persuasão política, o que não caracteriza a investigação metafísica/ontológica dos pré-socráticos."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Parmênides, especialmente, defende a primazia da razão (via da verdade) em detrimento do mundo sensível (via da opinião e da ilusão)."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão trata da oposição entre Heráclito e Parmênides.",
+      "O tema central é a natureza do ser e do devir, que pertence ao campo da ontologia."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

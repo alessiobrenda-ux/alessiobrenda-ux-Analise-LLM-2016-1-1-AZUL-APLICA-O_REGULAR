@@ -1,0 +1,103 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 45,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-45.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Analisar a ação dos estados nacionais no que se refere à dinâmica dos fluxos populacionais e no enfrentamento de problemas de ordem econômico-social."
+    },
+    "habilidades_relacionadas": [
+      "H6",
+      "H9"
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Demografia",
+    "conteudos_relacionados": [
+      "Transição demográfica",
+      "População economicamente ativa"
+    ],
+    "assunto": "Dinâmica demográfica e queda da fecundidade",
+    "objeto_de_analise": "Gráfico de evolução da taxa de fecundidade total em diferentes países",
+    "fenomeno_conceito": "Envelhecimento da população e redução do crescimento vegetativo"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A queda na taxa de fecundidade reduz o crescimento vegetativo e a entrada de novos jovens no mercado de trabalho a médio e longo prazo, provocando a diminuição da oferta de mão de obra nacional."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A expectativa de vida tende a aumentar com a melhoria das condições socioeconômicas e de saúde, não sendo uma consequência direta e imediata da diminuição da fecundidade."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A disponibilidade de serviços de saúde pode sofrer alteração na demanda (com maior foco na geriatria), mas não diminui necessariamente como consequência direta da queda da fecundidade."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A diminuição da fecundidade aliada ao aumento da expectativa de vida tende a elevar, e não reduzir, as despesas de natureza previdenciária devido à inversão da pirâmide etária."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A escassez de mão de obra gerada pela queda da fecundidade tende a atrair, e não diminuir, a imigração de trabalhadores."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "Análise do gráfico de taxa de fecundidade e associação com a População Economicamente Ativa (PEA)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

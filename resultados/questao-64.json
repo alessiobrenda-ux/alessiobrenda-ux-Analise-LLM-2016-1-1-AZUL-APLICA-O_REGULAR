@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 64,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-64.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H24",
+        "descricao": "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Eletroquímica",
+    "conteudos_relacionados": [
+      "Potencial padrão de redução",
+      "Pilhas"
+    ],
+    "assunto": "Cálculo da DDP (diferença de potencial) de pilhas e biocélulas",
+    "objeto_de_analise": "Semirreações de redução e seus respectivos potenciais padrão",
+    "fenomeno_conceito": "Funcionamento de biocélulas microbiológicas e associação em série"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreto. 3 biocélulas geram 3,3 V, o que é insuficiente para atingir 4,4 V."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "Correto. O cálculo da DDP da biocélula é 0,8 V - (-0,3 V) = 1,1 V. Para obter 4,4 V, divide-se 4,4 por 1,1, resultando em 4 biocélulas ligadas em série."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Incorreto. 6 biocélulas geram 6,6 V, ultrapassando o valor necessário."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Incorreto. 9 biocélulas geram 9,9 V."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreto. 15 biocélulas geram 16,5 V."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-01T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda potenciais padrão de redução em biocélulas, exigindo o cálculo da ddp total e a divisão pelo valor unitário para encontrar o número de células em série."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

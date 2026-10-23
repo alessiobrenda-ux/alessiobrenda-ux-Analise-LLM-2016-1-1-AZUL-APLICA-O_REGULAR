@@ -1,0 +1,23 @@
+QUESTÃO 77
+
+O trilho de ar é um dispositivo utilizado em laboratórios de física para analisar movimentos em que corpos de prova (carrinhos) podem se mover com atrito desprezível. 
+
+[FIGURA: Diagrama esquemático de um trilho de ar horizontal. Sobre o trilho, à esquerda, há o "carrinho 1" movendo-se para a direita (indicado por uma seta). Mais à direita, encontra-se o "carrinho 2" em repouso. Acima do trilho, estão dispostos quatro sensores verticais etiquetados sequencialmente da esquerda para a direita como "sensor 1", "sensor 2", "sensor 3" e "sensor 4".]
+
+A figura ilustra um trilho horizontal com dois carrinhos (1 e 2) em que se realiza um experimento para obter a massa do carrinho 2. No instante em que o carrinho 1, de massa 150,0 g, passa a se mover com velocidade escalar constante, o carrinho 2 está em repouso. No momento em que o carrinho 1 se choca com o carrinho 2, ambos passam a se movimentar juntos com velocidade escalar constante. Os sensores eletrônicos distribuídos ao longo do trilho determinam as posições e registram os instantes associados à passagem de cada carrinho, gerando os dados do quadro.
+
+| Carrinho 1 | Carrinho 2 |
+| :---: | :---: |
+| Posição (cm) | Instante (s) | Posição (cm) | Instante (s) |
+| 15,0 | 0,0 | 45,0 | 0,0 |
+| 30,0 | 1,0 | 45,0 | 1,0 |
+| 75,0 | 8,0 | 75,0 | 8,0 |
+| 90,0 | 11,0 | 90,0 | 11,0 |
+
+Com base nos dados experimentais, o valor da massa do carrinho 2 é igual a
+
+Ⓐ 50,0 g.
+Ⓑ 250,0 g.
+Ⓒ 300,0 g.
+Ⓓ 450,0 g.
+Ⓔ 600,0 g.

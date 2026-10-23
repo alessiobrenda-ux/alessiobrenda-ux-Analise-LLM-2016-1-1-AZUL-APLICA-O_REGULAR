@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 26,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-26.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Associar as manifestações culturais do presente aos seus processos históricos."
+    },
+    "habilidades_relacionadas": [
+      "H1",
+      "H5"
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "História do Brasil Colonial",
+    "conteudos_relacionados": [
+      "Igreja Católica no período colonial",
+      "Sincretismo religioso",
+      "Resistência escrava"
+    ],
+    "assunto": "Devoção a São Benedito e catequização de escravizados",
+    "objeto_de_analise": "Estratégias de evangelização e controle da população negra pela Igreja Católica",
+    "fenomeno_conceito": "Cristianização e aculturação religiosa no período colonial brasileiro"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "As irmandades e confrarias eram estimuladas ou controladas pela Igreja como instrumentos de cristianização e cooptação, e não sofriam uma ação sistemática para a redução de seu poder nesse contexto específico de catequese."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O texto II aponta claramente que a Igreja estimulava o conhecimento sobre a vida dos santos para transmitir ensinamentos aos fiéis, especialmente aos escravos que traziam outras crenças, buscando cristianizar a população afro-brasileira."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O objetivo principal da promoção do culto aos santos pela Igreja junto aos cativos era ideológico e doutrinário (catequese e conversão), e não a espoliação de recursos materiais."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A população escravizada era direcionada à subordinação religiosa e ao trabalho, não havendo recrutamento de cativos ou libertos para o corpo eclesiástico (sacerdócio formal restrito a brancos e livres em grande parte do período colonial)."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Embora houvesse apropriação e ressignificação popular (como nas irmandades), a iniciativa descrita no texto parte da Igreja Católica como estratégia de imposição e controle doutrinário sobre as crenças de origem africana."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O enunciado aborda a imagem de São Benedito e o texto de apoio discute a ação da Igreja Católica em utilizar os santos para catequizar escravizados.",
+      "A habilidade H3 de Ciências Humanas (C1) trata exatamente de associar manifestações culturais e religiosas aos seus processos históricos de formação."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

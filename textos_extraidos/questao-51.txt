@@ -1,0 +1,13 @@
+QUESTÃO 51
+
+Em meados de 2003, mais de 20 pessoas morreram no Brasil após terem ingerido uma suspensão de sulfato de bário utilizada como contraste em exames radiológicos. O sulfato de bário é um sólido pouquíssimo solúvel em água, que não se dissolve mesmo na presença de ácidos. As mortes ocorreram porque um laboratório farmacêutico forneceu o produto contaminado com carbonato de bário, que é solúvel em meio ácido. Um simples teste para verificar a existência de íons bário solúveis poderia ter evitado a tragédia. Esse teste consiste em tratar a amostra com solução aquosa de $\text{HCl}$ e, após filtrar para separar os compostos insolúveis de bário, adiciona-se solução aquosa de $\text{H}_2\text{SO}_4$ sobre o filtrado e observa-se por $30\text{ min}$.
+
+TUBINO, M.; SIMONI, J. A. Refletindo sobre o caso Celobar®. **Química Nova**, n. 2, 2007 (adaptado).
+
+A presença de íons bário solúveis na amostra é indicada pela
+
+Ⓐ liberação de calor.  
+Ⓑ alteração da cor para rosa.  
+Ⓒ precipitação de um sólido branco.  
+Ⓓ formação de gás hidrogênio.  
+Ⓔ volatilização de gás cloro.

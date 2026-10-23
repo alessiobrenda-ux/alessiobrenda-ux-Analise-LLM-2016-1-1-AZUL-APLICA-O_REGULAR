@@ -1,0 +1,79 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 21,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-21.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "História Antiga",
+    "conteudos_relacionados": [
+      "Roma Antiga",
+      "Expansão romana"
+    ],
+    "assunto": "Expansão militar e imperialismo da Roma Antiga",
+    "objeto_de_analise": "Texto historiográfico de Políbio sobre a conquista do mundo mediterrâneo pelos romanos",
+    "fenomeno_conceito": "Imperialismo romano",
+    "analise_alternativas": []
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto de Políbio relata a rápida expansão territorial e o domínio romano sobre o mundo conhecido no século II a.C., caracterizando o processo de expansão militar e imperialismo de Roma."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

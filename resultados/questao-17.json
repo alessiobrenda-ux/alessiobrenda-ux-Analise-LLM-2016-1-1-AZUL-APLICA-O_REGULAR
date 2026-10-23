@@ -1,0 +1,73 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 17,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-17.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H6",
+      "descricao": "Interpretar diferentes representações gráficas e cartográficas dos espaços geográficos."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Cartografia",
+    "conteudos_relacionados": [
+      "Projeções cartográficas"
+    ],
+    "assunto": "Projeções Cartográficas",
+    "objeto_de_analise": "Logotipo da ONU e identificação do tipo de projeção cartográfica utilizada",
+    "fenomeno_conceito": "Projeção azimutal ou plana"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a identificação de projeções cartográficas, especificamente a projeção azimutal ou plana utilizada no logotipo da ONU, centralizada no Polo Norte."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "INEP ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 43,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-43.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Economia agro-exportadora brasileira",
+    "conteudos_relacionados": [
+      "A economia cafeeira",
+      "A globalização e as novas tecnologias"
+    ],
+    "assunto": "Economia cafeeira na Primeira República",
+    "objeto_de_analise": "Papel do Brasil como exportador de produtos agrícolas no mercado internacional através de uma fonte histórica do século XX",
+    "fenomeno_conceito": "Agroexportação e inserção do Brasil na economia mundial"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto e a imagem retratam a exportação e o consumo de café brasileiro em Paris, e não a prestação de serviços gerais."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O Brasil na Primeira República tinha sua economia baseada na exportação de produtos agrícolas (primários), especialmente o café, e não de bens industriais."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A questão aborda a inserção econômica do Brasil no mercado internacional como vendedor de produtos agrícolas, e não a importação de padrões estéticos."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "A imagem e a legenda da revista de 1909 destacam o consumo do café brasileiro em Paris, evidenciando o papel do Brasil como fornecedor de produtos agrícolas (matérias-primas e gêneros alimentícios) na economia mundial da época."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Embora o café seja consumido, o papel do Brasil na economia mundial indicado no contexto histórico de exportação agroexportadora é o de fornecedor do produto agrícola, e não de formador de padrões globais de consumo de massa daquela sociedade."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão trata da inserção do Brasil na economia mundial do início do século XX através da economia cafeeira.",
+      "A habilidade H11 e a competência C3 de Ciências Humanas da Matriz do ENEM contemplam a identificação e análise de registros históricos de atividades econômicas e práticas sociais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

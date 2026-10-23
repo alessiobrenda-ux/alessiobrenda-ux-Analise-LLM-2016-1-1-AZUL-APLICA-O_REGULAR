@@ -1,0 +1,99 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 84,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-84.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Utilizar leis físicas e (ou) químicas para interpretar processos naturais ou tecnológicos inseridos no contexto da termodinâmica e(ou) do eletromagnetismo."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Termologia",
+    "conteudos_relacionados": [
+      "Condução térmica"
+    ],
+    "assunto": "Transmissão de calor",
+    "objeto_de_analise": "Taxa de derretimento do gelo sobre bandejas de materiais diferentes",
+    "fenomeno_conceito": "Condutividade térmica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O alumínio possui maior condutividade térmica que o plástico, transferindo calor para o gelo mais rapidamente e acelerando o seu derretimento."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "As bandejas estão em equilíbrio térmico com o ambiente, portanto possuem a mesma temperatura inicial."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O fator determinante para a taxa de transferência de calor nesse contexto de contato é a condutividade térmica, não a capacidade térmica."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O calor específico não é a propriedade determinante para a taxa de condução de calor entre a bandeja e o gelo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "As bandejas possuem condutividades térmicas diferentes, logo a taxa de transferência de calor e de derretimento do gelo será diferente."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda conceitos de transmissão de calor por condução e condutividade térmica de materiais distintos (alumínio e plástico)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

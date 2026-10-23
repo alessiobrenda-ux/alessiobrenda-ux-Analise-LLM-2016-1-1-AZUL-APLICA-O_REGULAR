@@ -1,0 +1,103 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 6,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-6.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [
+      "H3"
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia Moderna e Contemporânea",
+    "conteudos_relacionados": [
+      "Existencialismo",
+      "Literatura dramática"
+    ],
+    "assunto": "Existencialismo",
+    "objeto_de_analise": "Solilóquio de Hamlet de William Shakespeare",
+    "fenomeno_conceito": "Angústia humana e consciência de si"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O texto evidencia a reflexão profunda da personagem sobre a existência, a morte e os dilemas da vida, o que antecipa temas caros ao existencialismo, como a angústia diante da finitude e a consciência da própria existência."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora haja dilemas morais, o foco do solilóquio recai sobre a consciência da morte e a hesitação existencial, e não primariamente na incerteza moral frente a um destino inevitável."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O conflito expresso é de ordem interna e reflexiva sobre o ser e o não ser, distanciando-se de uma análise estrita sobre a ordem do mundo e a tragicidade dramática clássica."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto apresenta um questionamento filosófico e existencial profundo, e não um estado de loucura iminente ou exercício estritamente de racionalidade argumentativa fria."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A dependência paterna é um mote da peça de Hamlet, mas o trecho selecionado (o solilóquio) foca na reflexão universal sobre a morte e a existência, sem tratar diretamente da relação filial."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a relação entre uma obra literária clássica e o conceito filosófico do existencialismo.",
+      "A alternativa A aponta corretamente para a tensão entre consciência de si e angústia, elementos centrais no existencialismo (como em Sartre e Kierkegaard)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 74,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-74.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Identificar a presença e aplicar as tecnologias associadas às ciências naturais em diferentes contextos."
+    },
+    "habilidade_principal": {
+      "id": "H5",
+      "descricao": "Dimensionar circuitos ou dispositivos elétricos de uso cotidiano."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Fenômenos Elétricos e Magnéticos",
+    "conteudos_relacionados": [
+      "Circuitos elétricos simples"
+    ],
+    "assunto": "Circuitos elétricos em paralelo e correntes elétricas",
+    "objeto_de_analise": "Análise da intensidade de corrente elétrica em diferentes pontos de um circuito misto contendo lâmpadas em paralelo alimentadas por uma bateria.",
+    "fenomeno_conceito": "Primeira Lei de Kirchhoff (Conservação da Corrente Elétrica / Lei dos Nós) e associação de resistores/lâmpadas em paralelo."
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": true,
+      "justificativa": "Pela lei dos nós e conservação da carga, a corrente total que sai da bateria (IA) é igual à que retorna (IE). Além disso, considerando lâmpadas idênticas em ramos paralelos simétricos (ou divisões equivalentes de corrente), as correntes IC e ID que fluem por ramos específicos equivalentes mantêm a mesma intensidade devido à simetria e distribuição simétrica de nós."
+    },
+    {
+      "alternativa": "B",
+      "corretude": false,
+      "justificativa": "Incorreta porque as correntes nas ramificações intermediárias não são necessariamente iguais à corrente total da bateria."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "Incorreta pois desconsidera as igualdades entre correntes de retorno e ramos simétricos equivalentes."
+    },
+    {
+      "alternativa": "D",
+      "corretude": false,
+      "justificativa": "Incorreta pois assume erroneamente igualdade entre correntes parciais de ramo e a corrente total do circuito."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "Incorreta pois omite a igualdade fundamental entre a corrente de saída da fonte (IA) e a corrente de retorno (IE)."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-03-30T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda diretamente circuitos elétricos e dimensionamento/análise de correntes.",
+      "O gabarito oficial do ENEM 2016 para a questão 74 (caderno azul) é a alternativa A."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

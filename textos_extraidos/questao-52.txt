@@ -1,0 +1,19 @@
+QUESTÃO 52
+
+Os feromônios são substâncias utilizadas na comunicação entre indivíduos de uma espécie. O primeiro feromônio isolado de um inseto foi o bombicol, substância produzida pela mariposa do bicho-da-seda.
+
+**[FIGURA: Fórmula estrutural em zigue-zague do bombicol, mostrando uma cadeia carbônica longa e linear com um grupo hidroxila (-OH) na extremidade direita e duas duplas ligações conjugadas com geometria cis/trans na porção esquerda da cadeia.]**
+
+O uso de feromônios em ações de controle de insetos-praga está de acordo com o modelo preconizado para a agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser empregados em determinados cultivos, conforme ilustrado no quadro.
+
+**[FIGURA: Tabela com três colunas: "Substância", "Inseto" e "Cultivo". A primeira linha de dados mostra uma estrutura com grupos OH e C=O para a praga *Sitophilus spp.* no cultivo de Milho. A segunda linha mostra uma amida para *Migdolus fryanus* em Cana-de-açúcar. A terceira linha mostra um álcool insaturado com uma ramificação alquila contendo dupla ligação para *Anthonomus rubi* em Morango. A quarta linha mostra uma cadeia saturada linear com um grupo terminal OH para *Grapholita molesta* em Frutas. A quinta linha mostra uma cadeia insaturada com grupamento éster (-OCOCH3) na extremidade para *Scrobipalpuloides absoluta* em Tomate.]**
+
+FERREIRA, J. T. B.; ZARBIN, P. H. G. Amor ao primeiro odor: a comunicação química entre os insetos. Química Nova na Escola, n. 7, maio 1998 (adaptado).
+
+Considerando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é também apresentada pelo feromônio utilizado no controle do inseto
+
+A) *Sitophilus spp.*
+B) *Migdolus fryanus.*
+C) *Anthonomus rubi.*
+D) *Grapholita molesta.*
+E) *Scrobipalpuloides absoluta.*

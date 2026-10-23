@@ -1,0 +1,17 @@
+QUESTÃO 61
+
+Um pesquisador investigou o papel da predação por peixes na densidade e tamanho das presas, como possível controle de populações de espécies exóticas em costões rochosos. No experimento colocou uma tela sobre uma área da comunidade, impedindo o acesso dos peixes ao alimento, e comparou o resultado com uma área adjacente na qual os peixes tinham acesso livre. O quadro apresenta os resultados encontrados após 15 dias de experimento.
+
+**[FIGURA: Tabela com os resultados do experimento dividido em colunas para "Espécie exótica", "Área com tela" e "Área sem tela". A área com e sem tela são subdivididas em "Densidade (indivíduos/m²)" e "Tamanho médio dos indivíduos (cm)". As linhas trazem os dados para quatro espécies exóticas:
+- Alga: Área com tela (Densidade: 100, Tamanho: 15); Área sem tela (Densidade: 110, Tamanho: 18).
+- Craca: Área com tela (Densidade: 300, Tamanho: 2); Área sem tela (Densidade: 150, Tamanho: 1,5).
+- Mexilhão: Área com tela (Densidade: 300, Tamanho: 3); Área sem tela (Densidade: 200, Tamanho: 6) - *Nota: Na imagem a densidade da área com tela para mexilhão exibe 380*. Vamos corrigir para o valor exato da imagem: Densidade: 380, Tamanho: 3; Área sem tela (Densidade: 200, Tamanho: 6).
+- Ascídia: Área com tela (Densidade: 55, Tamanho: 4); Área sem tela (Densidade: 58, Tamanho: 3,8).]**
+
+O pesquisador concluiu corretamente que os peixes controlam a densidade dos(as)
+
+A algas, estimulando seu crescimento.
+B cracas, predando especialmente animais pequenos.
+C mexilhões, predando especialmente animais pequenos.
+D quatro espécies testadas, predando indivíduos pequenos.
+E ascídias, apesar de não representarem os menores organismos.

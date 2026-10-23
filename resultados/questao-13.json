@@ -1,0 +1,101 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 13,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-13.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ditaduras civil-militares na América Latina",
+    "conteudos_relacionados": [
+      "Operação Condor",
+      "Doutrina de Segurança Nacional"
+    ],
+    "assunto": "História Contemporânea e da América Latina",
+    "objeto_de_analise": "O objetivo da Operação Condor no contexto das ditaduras do Cone Sul",
+    "fenomeno_conceito": "Repressão política transnacional e autoritarismo estatal"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A Operação Condor não tinha como objetivo modificar limites territoriais entre os países envolvidos, mas sim articular a repressão política."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A operação articulava a perseguição e eliminação de opositores, e não a sobrevivência de oficiais exilados (que eram justamente as vítimas da repressão)."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Embora houvesse alinhamento geopolítico com os EUA (Guerra Fria), a operação em si era uma coordenação entre os próprios regimes ditatoriais sul-americanos para a repressão."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "A Operação Condor foi uma coordenação entre os serviços de inteligência das ditaduras do Cone Sul para vigiar, sequestrar, torturar e assassinar ativistas políticos de oposição aos regimes."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Os governos instalados eram alinhados ao liberalismo econômico e ao alinhamento com os EUA, além de ditatoriais e antipopulares, e não governos nacionalistas populares nos moldes tradicionais."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-13T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto aborda a Operação Condor e as ditaduras civil-militares no Cone Sul.",
+      "O enunciado questiona o objetivo da referida operação com base no contexto histórico."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

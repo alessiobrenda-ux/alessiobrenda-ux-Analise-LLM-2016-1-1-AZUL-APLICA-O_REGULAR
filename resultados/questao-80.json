@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 80,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-80.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H4",
+      "descricao": "Avaliar propostas de intervenção no ambiente, considerando a qualidade da vida humana ou medidas de conservação, recuperação ou utilização sustentável da biodiversidade."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Mudanças climáticas",
+    "conteudos_relacionados": [
+      "Impactos ambientais"
+    ],
+    "assunto": "Estratégias de adaptação e mitigação às mudanças climáticas",
+    "objeto_de_analise": "Diferenciação entre estratégias de mitigação (foco nas causas) e de adaptação (foco nos efeitos)",
+    "fenomeno_conceito": "Efeito estufa e elevação do nível do mar"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A construção de usinas eólicas é uma estratégia de mitigação, pois visa reduzir a emissão de gases de efeito estufa ao substituir fontes fósseis."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O tratamento de resíduos sólidos atua na redução de emissões (mitigação), evitando a liberação de metano, por exemplo."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O aumento da eficiência dos veículos reduz a queima de combustíveis fósseis, configurando uma estratégia de mitigação."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A agricultura sustentável de baixo carbono foca na redução das causas das mudanças climáticas (mitigação)."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "A criação de diques de contenção em regiões costeiras é uma estratégia de adaptação, pois visa preparar os sistemas humanos para os efeitos já em andamento das mudanças climáticas, como a elevação do nível dos oceanos."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto define estratégias de adaptação como aquelas direcionadas aos efeitos das mudanças climáticas para reduzir impactos negativos.",
+      "Diques de contenção protegem áreas costeiras contra o avanço do mar, que é um efeito direto das mudanças climáticas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

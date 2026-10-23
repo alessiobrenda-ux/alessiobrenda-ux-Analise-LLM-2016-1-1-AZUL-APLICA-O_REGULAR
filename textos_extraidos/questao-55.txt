@@ -1,0 +1,25 @@
+QUESTÃO 55
+
+A Figura 1 apresenta o gráfico da intensidade, em decibéis (dB), da onda sonora emitida por um alto-falante, que está em repouso, e medida por um microfone em função da frequência da onda para diferentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. A Figura 2 apresenta um diagrama com a indicação das diversas faixas do espectro de frequência sonora para o modelo de alto-falante utilizado neste experimento.
+
+**Figura 1**
+**Resposta de Frequência**
+
+**[FIGURA: Gráfico cartesiano entitulado "Resposta de Frequência" (Figura 1). O eixo vertical (ordenada) representa a intensidade em dB, variando de -20 a +20 em intervalos de 10. O eixo horizontal (abscissa) é logarítmico, representando a frequência em Hz, com marcações principais em 20, 50, 100, 1 000, 10 000 e 20 000 Hz. O gráfico contém quatro curvas que mostram a resposta em frequência para diferentes distâncias do microfone: 3 mm (linha tracejada superior), 25 mm (linha tracejada intermediária), 51 mm (linha tracejada inferior) e 60 mm (linha contínua). As curvas convergem e se sobrepõem na região de altas frequências (entre 1 000 Hz e 10 000 Hz), onde há um pico acentuado próximo a 4 000 Hz atingindo cerca de +5 dB, seguido por uma queda e um pico menor em aproximadamente 7 000 Hz, e depois decaem acentuadamente após 10 000 Hz. Nas baixas frequências (20 Hz a 1 000 Hz), as curvas se distanciam verticalmente de forma ordenada, com a curva de 3 mm apresentando maior intensidade (+12 dB em 20 Hz) e a de 60 mm menor intensidade (-4 dB em 20 Hz).]**
+
+Disponível em: www.batera.com.br. Acesso em: 8 fev. 2015.
+
+**Figura 2**
+**Faixas do espectro de frequência sonora**
+
+**[FIGURA: Diagrama retangular horizontal (Figura 2) dividido em seis colunas verticais que representam as faixas do espectro de frequência sonora, delimitadas por valores em Hz no eixo inferior: "Subgrave" (20 Hz a 63 Hz), "Grave" (63 Hz a 250 Hz), "Média baixa" (250 Hz a 640 Hz), "Média" (640 Hz a 2,5 kHz), "Média alta" (2,5 kHz a 5 kHz) e "Aguda" (5 kHz a 20 kHz).]**
+
+Disponível em: www.somsc.com.br. Acesso em: 2 abr. 2015.
+
+Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afetada pelo aumento da distância do microfone ao alto-falante?
+
+A) Aumenta na faixa das frequências médias.
+B) Diminui na faixa das frequências agudas.
+C) Diminui na faixa das frequências graves.
+D) Aumenta na faixa das frequências médias altas.
+E) Aumenta na faixa das frequências médias baixas.

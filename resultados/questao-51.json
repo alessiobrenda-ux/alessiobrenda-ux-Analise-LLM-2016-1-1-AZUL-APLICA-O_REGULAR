@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 51,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-51.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H25",
+        "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Química Analítica / Reações de Precipitação",
+    "conteudos_relacionados": [
+      "Ácidos, Bases, Sais e Óxidos",
+      "Solubilidade"
+    ],
+    "assunto": "Identificação de íons bário por precipitação com ácido sulfúrico",
+    "objeto_de_analise": "O teste químico para detecção de íons bário solúveis",
+    "fenomeno_conceito": "Formação de sulfato de bário, um sal insolúvel que precipita como sólido branco"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A adição de ácido sulfúrico ao filtrado contendo íons bário não é caracterizada por uma liberação notável de calor que sirva como evidência visual direta do teste descrito."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Não ocorre alteração de cor para rosa, pois o sulfato de bário formado é um sal branco e não há indicador ácido-base envolvido para gerar essa coloração."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A adição de solução aquosa de H2SO4 ao filtrado contendo íons bário (Ba2+) provoca a precipitação de sulfato de bário (BaSO4), que é um sólido branco e insolúvel."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Não há liberação de gás hidrogênio, uma vez que a reação entre íons bário e ácido sulfúrico é uma reação de precipitação (dupla troca), e não uma reação de simples troca entre metal e ácido."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Não ocorre a volatilização de gás cloro, pois não há espécies contendo cloro reagindo para formar Cl2 gasoso."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "1.0",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 1.0,
+    "evidências": [
+      "O enunciado descreve a adição de H2SO4 ao filtrado contendo íons Ba2+.",
+      "A reação entre íons bário e íons sulfato produz sulfato de bário, conhecido por ser um precipitado branco."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_51",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,19 @@
+QUESTÃO 85
+
+Os tensoativos são compostos capazes de interagir com substâncias polares e apolares. A parte iônica dos tensoativos interage com substâncias polares, e a parte lipofílica interage com as apolares. A estrutura orgânica de um tensoativo pode ser representada por:
+
+[FIGURA: Diagrama dividido em duas partes relacionando a fórmula estrutural de um tensoativo à sua representação esquemática. Na parte superior, lê-se "Fórmula estrutural do tensoativo", mostrando a cadeia carbônica H₃C-(CH₂)₉-C(=O)(O⁻), onde a longa cauda hidrocarbônica é apontada por setas verticais para uma linha ondulada representando a parte apolar ("Representação esquemática"), e o grupo carboxilato terminal (-COO⁻) é apontado para um círculo preto sólido, representando a cabeça polar iônica. A cauda ondulada corresponde à parte lipofílica e o círculo preto à parte iônica.]
+
+Ao adicionar um tensoativo sobre a água, suas moléculas formam um arranjo ordenado.
+
+Esse arranjo é representado esquematicamente por:
+
+A) [FIGURA: Béquer contendo líquido representado na cor cinza claro. Na superfície superior do líquido, há uma camada com as cabeças polares (círculos pretos) alinhadas para cima e as caudas apolares (linhas onduladas) imersas na água. No meio do líquido, há outra camada invertida (cabeças pretas para baixo e caudas para cima) na altura indicada por uma seta lateral com o texto "Nível da água".]
+
+B) [FIGURA: Béquer contendo líquido representado na cor cinza claro. Na superfície superior do líquido, há uma camada ordenada onde as cabeças polares (círculos pretos) estão alinhadas na interface ar-água e as caudas apolares (linhas onduladas) estão projetadas para fora da água (para cima). Uma seta lateral indica o "Nível da água" logo abaixo dessa camada.]
+
+C) [FIGURA: Béquer contendo líquido representado na cor cinza claro. Na altura indicada pela seta "Nível da água", há uma camada horizontal formada pelas cabeças polares (círculos pretos alinhados) com as caudas onduladas projetando-se para cima.]
+
+D) [FIGURA: Béquer contendo líquido representado na cor cinza claro. No fundo do béquer, há uma camada horizontal de moléculas de tensoativo com as caudas onduladas voltadas para o fundo do recipiente e as cabeças pretas voltadas para o líquido. Uma seta lateral aponta para o "Nível da água" na parte superior do líquido.]
+
+E) [FIGURA: Béquer contendo líquido representado na cor cinza claro. Na altura indicada pela seta "Nível da água", há uma dupla camada de tensoativos: uma camada superior com caudas para cima e cabeças para o centro, e uma camada inferior com caudas para baixo e cabeças em contato com as cabeças da camada superior.]

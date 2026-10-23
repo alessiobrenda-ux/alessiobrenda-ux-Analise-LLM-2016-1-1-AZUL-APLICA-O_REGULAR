@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 34,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-34.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Compreender a sociedade e a natureza, reconhecendo suas interações no espaço em diferentes contextos históricos e geográficos."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Analisar de maneira crítica as interações da sociedade com o meio físico, levando em consideração aspectos históricos e(ou) geográficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H26",
+        "descricao": "Identificar em fontes diversas o processo de ocupação dos meios físicos e as relações da vida humana com a paisagem."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Relação homem-natureza",
+    "conteudos_relacionados": [
+      "Pensamento político e crítica ambiental no Brasil",
+      "História ambiental"
+    ],
+    "assunto": "Crítica ambiental nos séculos XVIII e XIX no Brasil",
+    "objeto_de_analise": "A percepção do meio natural pelos primeiros críticos ambientais brasileiros",
+    "fenomeno_conceito": "Apropriação e visão econômica dos recursos naturais na história do Brasil",
+    "assunto_detalhado": "História ambiental e pensamento político no Brasil Império e Colonial"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "status": "Correta",
+      "justificativa": "O texto afirma que o meio natural era elogiado por sua 'riqueza e potencial econômico' e que sua destruição era vista como 'atraso', o que demonstra que era encarado como ferramenta essencial para o avanço e desenvolvimento da nação."
+    },
+    {
+      "alternativa": "B",
+      "status": "Incorreta",
+      "justificativa": "O período citado (séculos XVIII e XIX) é anterior ao desenvolvimento industrial expressivo no Brasil, focando na economia agroexportadora."
+    },
+    {
+      "alternativa": "C",
+      "status": "Incorreta",
+      "justificativa": "A crítica ambiental do período não estava pautada na especulação imobiliária ou valorização fundiária, mas sim na exploração econômica e no uso racional dos recursos."
+    },
+    {
+      "alternativa": "D",
+      "status": "Incorreta",
+      "justificativa": "O texto não trata de limitações topográficas para a urbanização, mas da riqueza e potencial econômico dos recursos naturais."
+    },
+    {
+      "alternativa": "E",
+      "status": "Incorreta",
+      "justificativa": "Os críticos viam o meio natural como fonte de riqueza e potencial econômico, e não como um obstáculo climático."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T12:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O enunciado aborda a percepção do meio natural por críticos ambientais brasileiros dos séculos XVIII e XIX.",
+      "A matriz de Ciências Humanas contempla as relações entre sociedade e natureza ao longo da história."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

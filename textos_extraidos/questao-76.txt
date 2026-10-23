@@ -1,0 +1,17 @@
+QUESTÃO 76
+
+Nucleófilos ($\text{Nu}^-$) são bases de Lewis que reagem com haletos de alquila, por meio de uma reação chamada substituição nucleofílica ($\text{S}_\text{N}$), como mostrado no esquema:
+
+$$\text{R–X} + \text{Nu}^- \longrightarrow \text{R–Nu} + \text{X}^- \quad (\text{R} = \text{grupo alquila e } \text{X} = \text{halogênio})$$
+
+A reação de $\text{S}_\text{N}$ entre metóxido de sódio ($\text{Nu}^- = \text{CH}_3\text{O}^-$) e brometo de metila fornece um composto orgânico pertencente à função
+
+A éter.
+
+B éster.
+
+C álcool.
+
+D haleto.
+
+E hidrocarboneto.

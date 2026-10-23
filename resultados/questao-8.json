@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 8,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-8.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Associar as manifestações culturais do presente aos seus processos históricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "História do Brasil Império",
+    "conteudos_relacionados": [
+      "História da África",
+      "Escravidão no Brasil"
+    ],
+    "assunto": "Mulheres negras e o comércio de rua no Brasil escravista",
+    "objeto_de_analise": "Relação entre a dinâmica comercial feminina na África Ocidental e a atuação das mulheres negras nas cidades do Brasil escravista",
+    "fenomeno_conceito": "Diáspora africana e resistência cultural e econômica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreta, pois o comércio ambulante era amplamente realizado por escravizados e libertos no Brasil colonial e imperial (os chamados 'gamares' ou escravos de ganho)."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta, pois o foco do texto e da questão recai sobre a atuação marcante das mulheres negras (muitas vezes escravizadas de ganho ou libertas) no comércio urbano, e não sobre a convivência entre homens e mulheres livres de diversas origens de forma geral."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Correta. A presença de mulheres negras (como as 'negras de ganho') comercializando produtos e alimentos nas ruas das cidades brasileiras nos séculos XVIII e XIX reflete diretamente a tradição de autonomia e comércio itinerante herdada da África Ocidental, conforme apontado no texto."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Incorreta, pois a questão demonstra exatamente a permanência e a resiliência de hábitos culturais trazidos da África (como o papel ativo das mulheres no comércio)."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreta. Embora houvesse portugueses no comércio, a alternativa não responde à relação proposta pelo texto, que destaca a agência feminina na África e sua conexão com o contexto afro-brasileiro urbano."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O enunciado estabelece um paralelo entre a África Ocidental e o Brasil escravista.",
+      "A habilidade H3 de Ciências Humanas aborda a associação de manifestações culturais aos processos históricos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

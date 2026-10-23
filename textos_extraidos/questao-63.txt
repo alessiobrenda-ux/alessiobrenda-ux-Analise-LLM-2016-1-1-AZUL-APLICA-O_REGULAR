@@ -1,0 +1,20 @@
+QUESTÃO 63
+
+Dois veículos que trafegam com velocidade constante em uma estrada, na mesma direção e sentido, devem manter entre si uma distância mínima. Isso porque o movimento de um veículo, até que ele pare totalmente, ocorre em duas etapas, a partir do momento em que o motorista detecta um problema que exige uma freada brusca. A primeira etapa é associada à distância que o veículo percorre entre o intervalo de tempo da detecção do problema e o acionamento dos freios. Já a segunda se relaciona com a distância que o automóvel percorre enquanto os freios agem com desaceleração constante.
+
+Considerando a situação descrita, qual esboço gráfico representa a velocidade do automóvel em relação à distância percorrida até parar totalmente?
+
+**[FIGURA: Gráfico da alternativa A, mostrando um plano cartesiano com a "Velocidade (m/s)" no eixo vertical e a "Distância (m)" no eixo horizontal. A curva começa com uma velocidade inicial não nula no eixo vertical e decresce linearmente até zero à medida que a distância aumenta.]**
+A)
+
+**[FIGURA: Gráfico da alternativa B, mostrando um plano cartesiano com a "Velocidade (m/s)" no eixo vertical e a "Distância (m)" no eixo horizontal. A curva começa com uma velocidade inicial constante (linha horizontal paralela ao eixo x) durante a primeira etapa e, em seguida, decresce linearmente até zero na segunda etapa.]**
+B)
+
+**[FIGURA: Gráfico da alternativa C, mostrando um plano cartesiano com a "Velocidade (m/s)" no eixo vertical e a "Distância (m)" no eixo horizontal. A curva começa com uma velocidade inicial não nula e decresce de forma não linear (curva côncava para baixo) até zero.]**
+C)
+
+**[FIGURA: Gráfico da alternativa D, mostrando um plano cartesiano com a "Velocidade (m/s)" no eixo vertical e a "Distância (m)" no eixo horizontal. A curva começa com uma velocidade constante (linha horizontal) e depois decresce de forma não linear (curva côncava para baixo) até zero.]**
+D)
+
+**[FIGURA: Gráfico da alternativa E, mostrando um plano cartesiano com a "Velocidade (m/s)" no eixo vertical e a "Distância (m)" no eixo horizontal. A curva é simétrica em forma de parábola invertida, partindo da origem (velocidade zero), subindo até um ponto máximo e descendo novamente até zero.]**
+E)

@@ -1,0 +1,108 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 31,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-31.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H8",
+        "descricao": "Analisar a ação dos estados nacionais no que se refere à dinâmica dos fluxos populacionais e no enfrentamento de problemas de ordem econômico-social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "IV",
+      "nome": "Construir argumentação (CA)",
+      "descricao": "relacionar informações, representadas em diferentes formas, e conhecimentos disponíveis em situações concretas, para construir argumentação consistente."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Migrações internacionais e crise de refugiados",
+    "conteudos_relacionados": [
+      "Xenofobia",
+      "Políticas migratórias na Europa",
+      "Direitos humanos"
+    ],
+    "assunto": "Crise dos refugiados e políticas anti-imigração na Hungria",
+    "objeto_de_analise": "O posicionamento do governo húngaro frente à chegada de refugiados e imigrantes",
+    "fenomeno_conceito": "Xenofobia institucionalizada e discriminação contra imigrantes"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "As medidas governamentais relatadas referem-se a políticas anti-imigração e controle de fronteiras, não implicando necessariamente uma alteração do regime político do país."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A adoção de barreiras e discursos anti-imigração busca, na visão do governo, justamente proteger a soberania e a supremacia nacional, e não fragilizá-la."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A construção de muros na fronteira e restrições à entrada de imigrantes tratam-se de controle territorial defensivo, e não de expansão de domínios geográficos."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto aborda manifestações de xenofobia e campanhas governamentais contra imigrantes, e não a restrição da liberdade de expressão dos cidadãos locais."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "O ACNUR critica as atitudes do governo húngaro (como a construção de muros e campanhas estatais com apelo xenofóbico) por incentivarem o preconceito e a discriminação contra imigrantes e refugiados em âmbito institucional."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024.05",
+    "datetime": "2024-10-25T10:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O texto I relata a construção de um muro para conter refugiados na Hungria.",
+      "O texto II relata críticas do ACNUR às manifestações de xenofobia adotadas pelo governo húngaro contra imigrantes.",
+      "A alternativa E corresponde diretamente à crítica de práticas discriminatórias institucionais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q31.json",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

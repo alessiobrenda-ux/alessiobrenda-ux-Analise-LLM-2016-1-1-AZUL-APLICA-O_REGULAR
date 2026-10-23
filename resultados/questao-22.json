@@ -1,0 +1,109 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 22,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-22.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H2",
+      "descricao": "Analisar a produção da memória pelas sociedades humanas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      },
+      {
+        "id": "H3",
+        "descricao": "Associar as manifestações culturais do presente aos seus processos históricos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "História Contemporânea",
+    "conteudos_relacionados": [
+      "Revolução Islâmica no Irã",
+      "Cultura e Sociedade"
+    ],
+    "assunto": "Revolução Islâmica e imposição de costumes",
+    "objeto_de_analise": "Quadrinho autobiográfico de Persépolis",
+    "fenomeno_conceito": "Relação entre mudanças políticas e imposição de padrões culturais e religiosos",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": false,
+        "justificativa": "O texto aborda uma revolução política e religiosa e suas consequências sociais, e não conflitos trabalhistas ou sindicais."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "A imposição do véu nas escolas decorrente da revolução não se relaciona com a proteção à infância."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "A Revolução Islâmica tratou de mudanças políticas e religiosas profundas, mas a questão central do quadrinho é sobre a imposição de regras comportamentais/vestimentares (costumes) decorrentes de uma transformação política."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "O uso obrigatório do véu imposto às crianças na escola retrata uma mudança de costumes imposta pelo Estado, e não desigualdade de renda."
+      },
+      {
+        "alternativa": "E",
+        "correta": true,
+        "justificativa": "A questão aborda a Revolução Islâmica de 1979 (transformação política) e a consequente obrigatoriedade do uso do véu nas escolas em 1980 (modificação de costumes)."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-11-20",
+    "datetime": "2024-12-07T00:00:00",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão retrata a obra Persépolis de Marjane Satrapi, evidenciando o impacto da Revolução Islâmica (transformação política) na obrigatoriedade do uso do véu pelas mulheres e meninas (modificação de costumes)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 49,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-49.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H22",
+      "descricao": "Compreender fenômenos decorrentes da interação entre a radiação e a matéria em suas manifestações em processos naturais ou tecnológicos, ou em suas implicações biológicas, sociais, econômicas ou ambientais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Reconhecer características ou propriedades de fenômenos ondulatórios ou oscilatórios, relacionando-os a seus usos em diferentes contextos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ondas",
+    "conteudos_relacionados": [
+      "Efeito Doppler"
+    ],
+    "assunto": "Efeito Doppler acústico",
+    "objeto_de_analise": "Variação da frequência percebida por um observador em função do movimento da fonte sonora",
+    "fenomeno_conceito": "Efeito Doppler"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. Representa uma oscilação senoidal em torno da frequência emitida, o que não condiz com a variação contínua única do efeito Doppler para uma aproximação seguida de afastamento."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. Mostra uma curva em forma de sino, sugerindo um aumento momentâneo seguido de retorno ao patamar inicial, incompatível com a mudança de frequência antes e depois da passagem."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta. Apresenta valores menores que a frequência emitida que depois sobem e se estabilizam em um patamar superior, o que inverteria a lógica de aproximação e afastamento."
+    },
+    {
+      "alternativa": "D",
+      "correta": "correta",
+      "analise": "Correta. Quando a ambulância se aproxima, a frequência percebida é maior que a emitida ($f > f_A$) e permanece constante em um patamar elevado. No instante em que passa e começa a se afastar, a frequência percebida sofre uma queda brusca para um valor menor que a emitida ($f < f_A$), mantendo-se constante nesse novo patamar inferior, descrevendo uma curva sigmoide decrescente."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta. Indica frequência constante ao longo de todo o tempo, ignorando o efeito Doppler gerado pelo movimento relativo entre a fonte e o observador."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão trata do Efeito Doppler.",
+      "Quando a fonte se aproxima, a frequência aparente é maior; quando se afasta, é menor."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

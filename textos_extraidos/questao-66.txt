@@ -1,0 +1,19 @@
+QUESTÃO 66
+
+A invenção e o acoplamento entre engrenagens revolucionaram a ciência na época e propiciaram a invenção de várias tecnologias, como os relógios. Ao construir um pequeno cronômetro, um relojoeiro usa o sistema de engrenagens mostrado. De acordo com a figura, um motor é ligado ao eixo e movimenta as engrenagens fazendo o ponteiro girar. A frequência do motor é de 18 RPM, e o número de dentes das engrenagens está apresentado no quadro.
+
+**[FIGURA: Tabela com duas colunas. A primeira coluna indica "Engrenagem" com as linhas A, B, C e D. A segunda coluna indica "Dentes" com os respectivos valores: 24 para a engrenagem A, 72 para a engrenagem B, 36 para a engrenagem C e 108 para a engrenagem D.]**
+
+**[FIGURA: Esquema tridimensional de um sistema de engrenagens e eixos mecânicos. O "Eixo do motor" está conectado à "Engrenagem A" (menor). A Engrenagem A engrena com a "Engrenagem B", que compartilha o mesmo eixo com a "Engrenagem C" (formando um eixo composto). Por fim, a Engrenagem C acopla-se à "Engrenagem D" (maior), que está acoplada ao "Ponteiro" representado por uma seta vertical apontada para cima.]**
+
+A frequência de giro do ponteiro, em RPM, é
+
+A) 1.
+
+B) 2.
+
+C) 4.
+
+D) 81.
+
+E) 162.

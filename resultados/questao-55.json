@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 55,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-55.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento econômico e social da humanidade."
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Reconhecer características ou propriedades de fenômenos ondulatórios ou oscilatórios, relacionando-os a seus usos em diferentes contextos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ondas",
+    "conteudos_relacionados": [
+      "Acústica",
+      "Intensidade sonora"
+    ],
+    "assunto": "Fenômenos ondulatórios",
+    "objeto_de_analise": "Gráfico de resposta de frequência em função da distância e espectro sonoro",
+    "fenomeno_conceito": "Atenuação da intensidade sonora com a distância em diferentes faixas de frequência"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreta. Na faixa das frequências médias (entre 640 Hz e 2,5 kHz), as curvas se aproximam, mas não há um aumento generalizado da intensidade com a distância."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta. Na faixa das agudas (acima de 5 kHz), as curvas praticamente se sobrepõem na região de alta frequência, mostrando pouca alteração com a distância em comparação às baixas frequências."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Correta. Observando a Figura 1 na região de baixas frequências (20 Hz a 250 Hz, que engloba as faixas 'Subgrave' e 'Grave' da Figura 2), nota-se que o aumento da distância do microfone (de 3 mm até 60 mm) resulta em uma diminuição clara e ordenada da intensidade em decibéis."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Incorreta. A intensidade diminui ou se estabiliza dependendo da frequência, não havendo aumento na faixa de médias altas."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreta. Na faixa de médias baixas, ocorre o mesmo comportamento de decréscimo da intensidade conforme o afastamento do microfone."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "Análise visual do gráfico da Figura 1 mostra separação expressiva das curvas de distância na região de baixas frequências.",
+      "Cruzamento com a Figura 2 identifica que a região de 20 Hz a 250 Hz corresponde às faixas 'Subgrave' e 'Grave'."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

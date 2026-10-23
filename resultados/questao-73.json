@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 73,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-73.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ecologia",
+    "conteudos_relacionados": [
+      "Sucessão ecológica",
+      "Sistemas agroflorestais"
+    ],
+    "assunto": "Recuperação ambiental e agricultura",
+    "objeto_de_analise": "Relação entre o uso de árvores em sistemas agrícolas e a recuperação da biodiversidade e fertilidade do solo",
+    "fenomeno_conceito": "Sucessão ecológica e ciclagem de nutrientes"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Os sistemas agroflorestais integram árvores e culturas agrícolas, não substituindo totalmente as espécies cultiváveis por espécies arbóreas."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O uso de biocidas (agrotóxicos) degrada o solo e o ecossistema, contrariando a proposta de recuperação ambiental."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A introdução de árvores nos sistemas agrícolas aumenta a deposição de matéria orgânica, o que favorece a microbiota do solo, promove maior diversidade de vida e auxilia na recuperação da fertilidade e estabilidade do ecossistema."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O foco principal da estratégia descrita é a recuperação e diversificação da produção por meio da integração de árvores, e não primariamente a dispersão de sementes pela fauna."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O sombreamento gerado pelas árvores pode ocorrer, mas a diminuição da insolação sobre o solo por si só não explica a conciliação entre recuperação ambiental e produção agrícola proposta pelo texto."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda ecossistemas, degradação agrícola, sistemas agroflorestais e sucessão ecológica.",
+      "A habilidade H8 da matriz de Ciências da Natureza cobre a identificação de processos biológicos e ecológicos na transformação ou utilização de recursos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

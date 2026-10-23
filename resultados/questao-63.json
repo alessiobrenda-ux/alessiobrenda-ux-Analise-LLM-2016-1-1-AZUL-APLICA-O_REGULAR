@@ -1,0 +1,80 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 63,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-63.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H20",
+      "descricao": "Caracterizar causas ou efeitos dos movimentos de partículas, substâncias, objetos ou corpos celestes."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Mecânica",
+    "conteudos_relacionados": [
+      "Cinemática",
+      "Gráficos da cinemática"
+    ],
+    "assunto": "Estudo do movimento e gráficos de velocidade versus distância",
+    "objeto_de_analise": "Etapas do movimento de frenagem de um veículo e sua representação gráfica",
+    "fenomeno_conceito": "Velocidade constante seguida de movimento retardado (desaceleração constante) em função da distância"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O enunciado descreve duas etapas na frenagem: a primeira com velocidade constante enquanto o motorista percebe o problema (percorrendo certa distância com a mesma velocidade) e a segunda com desaceleração constante até parar.",
+      "A relação entre velocidade e distância na segunda etapa (com aceleração/desaceleração constante) pode ser descrita pela equação de Torricelli: v^2 = v_0^2 + 2*a*delta_s, o que resulta em um gráfico de v em função de s que é um arco de parábola (curva não linear)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,13 @@
+QUESTÃO 53
+
+O esquema representa, de maneira simplificada, o processo de produção de etanol utilizando milho como matéria-prima.
+
+**[FIGURA: Fluxograma horizontal composto por dois grandes recipientes cilíndricos com agitadores internos. À esquerda, a palavra "Milho" aponta com uma seta para o primeiro recipiente rotulado abaixo como "Hidrólise". Desse primeiro recipiente, uma seta aponta para o segundo recipiente, rotulado abaixo como "Fermentação". No topo do segundo recipiente, a palavra "Levedura" aponta com uma seta para baixo. Do lado direito do segundo recipiente, três setas apontam para fora indicando os produtos: a superior para "CO₂", a intermediária para "Etanol" e a inferior para "Água".]**
+
+A etapa de hidrólise na produção de etanol a partir do milho é fundamental para que
+
+A) a glicose seja convertida em sacarose.
+B) as enzimas dessa planta sejam ativadas.
+C) a maceração favoreça a solubilização em água.
+D) o amido seja transformado em substratos utilizáveis pela levedura.
+E) os grãos com diferentes composições químicas sejam padronizados.

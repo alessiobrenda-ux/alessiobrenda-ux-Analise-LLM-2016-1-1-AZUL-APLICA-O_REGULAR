@@ -1,0 +1,111 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 40,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-40.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Analisar diferentes processos de produção ou circulação de riquezas e suas implicações sócio-espaciais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Transformações na estrutura produtiva no século XX: o fordismo, o toyotismo, as novas técnicas de produção e seus impactos",
+    "conteudos_relacionados": [
+      "A globalização e as novas tecnologias de telecomunicação e suas consequências econômicas, políticas e sociais"
+    ],
+    "assunto": "Impacto das novas tecnologias e reestruturação produtiva no mundo do trabalho",
+    "objeto_de_analise": "A relação entre a acumulação molecular-digital (toyotismo/just in time) e a precarização ou informalidade do trabalho",
+    "fenomeno_conceito": "Reestruturação produtiva e precarização do trabalho",
+    "conceitos_chave": [
+      "Tecnologia",
+      "Mundialização",
+      "Estrutura produtiva",
+      "Trabalho"
+    ]
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não aborda a crise bancária, mas sim os impactos da tecnologia molecular-digital e a produtividade sem acumulação de capital."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora cite indiretamente a inovação toyotista (*just in time*), o texto aponta para a informalidade e uso primitivo da força de trabalho, e não para a regularização do trabalho formal."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "O texto discute como a introdução da tecnologia (forma técnica molecular-digital) impacta a produtividade e modifica a estrutura produtiva, combinando alta tecnologia com formas precárias e primitivas de exploração da força de trabalho."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto trata da precarização e do setor terciário/informal (vendedores de rua), e não da expansão do setor secundário (indústria)."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O texto não aborda a diminuição do tempo de trabalho ou a exigência de diploma superior; pelo contrário, retrata o trabalho informal e desqualificado nas ruas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidências": [
+      "Enunciado aborda a mundialização, a forma técnica molecular-digital e o impacto no trabalho.",
+      "A alternativa C engloba perfeitamente a competência C4 e habilidade H16 de Ciências Humanas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

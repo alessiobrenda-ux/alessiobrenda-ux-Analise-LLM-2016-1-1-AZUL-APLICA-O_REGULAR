@@ -1,0 +1,19 @@
+QUESTÃO 89
+
+O aquecimento de um material por irradiação com micro-ondas ocorre por causa da interação da onda eletromagnética com o dipolo elétrico da molécula. Um importante atributo do aquecimento por micro-ondas é a absorção direta da energia pelo material a ser aquecido. Assim, esse aquecimento é seletivo e dependerá, principalmente, da constante dielétrica e da frequência de relaxação do material. O gráfico mostra a taxa de aquecimento de cinco solventes sob irradiação de micro-ondas.
+
+**[FIGURA: Gráfico de linha intitulado "Temperatura (°C)" no eixo vertical (variando de 20 a 100) em função do "Tempo (s)" no eixo horizontal (variando de 0 a 80). O gráfico apresenta cinco curvas correspondentes a diferentes solventes: Água (representada por quadrados), Metanol (círculos), Etanol (triângulos para cima), Propanol (triângulos para baixo) e n-Hexano (losangos). A curva do n-Hexano permanece quase horizontal, próxima a 30 °C, ao longo de todo o intervalo de 0 a 80 s. As demais curvas mostram aumento de temperatura com o tempo em taxas variadas.]**
+
+BARBOZA, A. C. R. N. et al. Aquecimento em forno de micro-ondas. Desenvolvimento de alguns conceitos fundamentais. **Química Nova**, n. 6, 2001 (adaptado).
+
+No gráfico, qual solvente apresenta taxa média de aquecimento mais próxima de zero, no intervalo de 0 s a 40 s?
+
+Ⓐ $\text{H}_2\text{O}$
+
+Ⓑ $\text{CH}_3\text{OH}$
+
+Ⓒ $\text{CH}_3\text{CH}_2\text{OH}$
+
+Ⓓ $\text{CH}_3\text{CH}_2\text{CH}_2\text{OH}$
+
+Ⓔ $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_3$

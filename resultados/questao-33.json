@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 33,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-33.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Analisar a ação dos estados nacionais no que se refere à dinâmica dos fluxos populacionais e no enfrentamento de problemas de ordem econômico-social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Identificar os significados histórico-geográficos das relações de poder entre as nações"
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Apartheid na África do Sul",
+    "conteudos_relacionados": [
+      "Segregação racial",
+      "Controle espacial"
+    ],
+    "assunto": "História Contemporânea e África",
+    "objeto_de_analise": "Lei do passe e controle de circulação de pessoas",
+    "fenomeno_conceito": "Segregacionismo estatal"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A lei do passe não tratava de concentração fundiária, mas sim da restrição de circulação urbana."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta. A lei não envolvia boicote econômico a produtos ingleses."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Incorreta. A lei do passe não regulamentava questões religiosas, mas espaciais."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "A 'lei do passe' no regime do Apartheid obrigava os negros a portarem documentos que autorizavam sua circulação apenas em áreas permitidas, controlando estritamente a movimentação urbana."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Embora houvesse exclusão econômica, a lei retratada na imagem refere-se especificamente ao controle de circulação e trânsito (lei do passe)."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda o Apartheid na África do Sul e a 'lei do passe'.",
+      "A habilidade H8 aborda a dinâmica de fluxos populacionais e ação do Estado."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

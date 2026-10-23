@@ -1,0 +1,101 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 83,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-83.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais."
+    },
+    "habilidade_principal": {
+      "id": "H13",
+      "descricao": "Reconhecer mecanismos de transmissão da vida, prevendo ou explicando a manifestação de características dos seres vivos."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia",
+    "conteudos_relacionados": [
+      "Genética",
+      "Meiose"
+    ],
+    "assunto": "Permuta genética (Crossing-over)",
+    "objeto_de_analise": "Recombinação genética na formação dos gametas",
+    "fenomeno_conceito": "Crossing-over durante a meiose"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A permuta genética não está diretamente relacionada com a produção de indivíduos mais férteis."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A transmissão de características adquiridas faz parte de teorias evolutivas desacreditadas (como o Lamarckismo), não sendo explicada pela meiose."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "O crossing-over ou permuta genética ocorrido na prófase I da meiose promove a troca de material genético entre cromátides não irmãs, resultando em recombinação genética na formação dos gametas."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Mutações somáticas não são passadas para os descendentes e o crossing-over não é uma mutação, mas sim uma recombinação."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A permuta genética troca pedaços entre cromossomos homólogos, mas não altera o número característico de cromossomos da espécie."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2026-06-06T00:00:00",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda o conceito de permuta genética (crossing-over) na meiose.",
+      "A habilidade H13 da Matriz de Ciências da Natureza cobre o reconhecimento de mecanismos de transmissão da vida."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

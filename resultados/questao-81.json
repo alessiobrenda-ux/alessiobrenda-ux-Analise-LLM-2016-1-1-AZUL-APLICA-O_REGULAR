@@ -1,0 +1,111 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 81,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-81.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Compostos de Carbono",
+    "conteudos_relacionados": [
+      "Forças intermoleculares",
+      "Propriedades de materiais"
+    ],
+    "assunto": "Lipofilia e polaridade de compostos orgânicos",
+    "objeto_de_analise": "Coeficiente de partição e estrutura química de esteroides",
+    "fenomeno_conceito": "Afinidade por ambientes apolares (lipofilia) associada ao aumento de cadeias carbônicas/substituintes apolares.",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": false,
+        "justificativa": "Incorreta, pois a retirada da hidroxila e a adição de grupos metila aumentam o caráter apolar, logo a lipofilia aumenta."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "Incorreta, o Composto 1 também apresenta maior lipofilia que a testosterona devido à ausência do grupo hidroxila polar."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "Incorreta, ambos os compostos apresentam maior lipofilia que a testosterona."
+      },
+      {
+        "alternativa": "D",
+        "correta": true,
+        "justificativa": "Correta. A testosterona possui um grupo hidroxila (-OH), que confere certa polaridade à molécula. O Composto 1 substitui a hidroxila por um hidrogênio (-H), tornando a molécula mais apolar. O Composto 2 substitui a hidroxila por um grupo metila (-CH3), aumentando ainda mais a cadeia carbônica apolar. Portanto, a lipofilia (afinidade por ambientes apolares) de ambos os compostos é maior que a da testosterona."
+      },
+      {
+        "alternativa": "E",
+        "correta": false,
+        "justificativa": "Incorreta, as modificações estruturais alteram diretamente a polaridade e, consequentemente, a lipofilia."
+      }
+    ],
+    "auditoria_da_ia": {
+      "modelo": "gpt-4o",
+      "versao": "2024-05-13",
+      "datetime": "2024-06-01T00:00:00Z",
+      "confianca": 1.0,
+      "evidencias": [
+        "A questão aborda a relação entre estrutura química (presença de hidroxila vs. hidrogênio ou grupos alquila) e a lipofilia.",
+        "A substituição de grupos polares por grupos apolares aumenta o caráter hidrofóbico/lipofílico."
+      ],
+      "proveniencia": {
+        "arquivo_questao": "ENEM 2016",
+        "arquivo_matriz": "Matriz ENEM Oficial"
+      },
+      "validacao_humana": {
+        "validado": false,
+        "data_validacao": null
+      }
+    },
+    "estudante": {
+      "nome_completo": null,
+      "colegio": null,
+      "turma": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 42,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-42.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C9",
+      "descricao": "Entender os princípios, a natureza, a função e o impacto das tecnologias da comunicação e da informação na sua vida pessoal e social, no desenvolvimento do conhecimento, associando-o aos conhecimentos científicos, às linguagens que lhes dão suporte, às demais tecnologias, aos processos de produção e aos problemas que se propõem solucionar."
+    },
+    "habilidade_principal": {
+      "id": "H28",
+      "descricao": "Reconhecer a função e o impacto social das diferentes tecnologias da comunicação e informação."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Identificar as diferentes linguagens e seus recursos expressivos como elementos de caracterização dos sistemas de comunicação."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impacto das tecnologias da comunicação e informação",
+    "conteudos_relacionados": [
+      "Leitura de textos argumentativos",
+      "Efeitos da internet na cognição"
+    ],
+    "assunto": "Impacto da internet na capacidade de leitura e concentração",
+    "objeto_de_analise": "Perspectiva crítica do autor sobre o uso e os efeitos da internet",
+    "fenomeno_conceito": "Paradoxo tecnológico entre acesso à informação e dispersão cognitiva"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O texto aponta o paradoxo de que a internet facilita o acesso a uma grande quantidade de informações, mas ao mesmo tempo superficializa a leitura e pulveriza a capacidade de concentração."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O autor não aborda a desorganização da rede, mas sim a forma como ela molda os processos de pensamento."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Embora mencione a rapidez na busca de informações, o foco do paradoxo é a perda de profundidade e concentração, e não a aceleração temporal em si."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto destaca que a internet exige interação ('procurando e surfando'), não se caracterizando como uma mídia de recepção passiva."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O autor discute os impactos da internet (ferramenta digital), sem equipará-la diretamente à tecnologia analógica."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "1.0",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O texto discute explicitamente o impacto da internet nos processos de pensamento e na capacidade de concentração.",
+      "A habilidade H28 avalia diretamente o reconhecimento da função e do impacto social das TIC."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q42.txt",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

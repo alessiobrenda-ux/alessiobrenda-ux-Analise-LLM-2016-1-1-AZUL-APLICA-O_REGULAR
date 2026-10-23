@@ -1,0 +1,13 @@
+QUESTÃO 72
+
+Uma pessoa é responsável pela manutenção de uma sauna úmida. Todos os dias cumpre o mesmo ritual: colhe folhas de capim-cidreira e algumas folhas de eucalipto. Em seguida, coloca as folhas na saída do vapor da sauna, aromatizando-a, conforme representado na figura.
+
+[FIGURA: Diagrama esquemático de uma sauna úmida em corte lateral. Do lado direito, há um "Gerador de vapor" conectado por um duto horizontal que atravessa uma "Parede" vertical escura. O duto termina em uma "Saída do vapor" dentro do ambiente da "Sauna úmida", localizada à esquerda. Abaixo da saída do vapor, há um recipiente contendo "Folhas", de onde se elevam nuvens de vapor/aroma em direção ao ambiente da sauna.]
+
+Qual processo de separação é responsável pela aromatização promovida?
+
+A) Filtração simples.
+B) Destilação simples.
+C) Extração por arraste.
+D) Sublimação fracionada.
+E) Decantação sólido-líquido.

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 72,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-72.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Métodos de separação de misturas",
+    "conteudos_relacionados": [
+      "Extração"
+    ],
+    "assunto": "Extração por arraste a vapor",
+    "objeto_de_analise": "Aromatização de ambiente com vapor de água e óleos essenciais de folhas",
+    "fenomeno_conceito": "Extração por arraste"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A filtração simples é utilizada para separar misturas heterogêneas de sólidos e líquidos, o que não ocorre na liberação de aromas por vapor."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A destilação simples é aplicada para separar sólidos dissolvidos em líquidos ou líquidos miscíveis com pontos de ebulição diferentes, exigindo condensação posterior do vapor gerado."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A extração por arraste a vapor é o método utilizado para separar óleos essenciais voláteis de matrizes vegetais utilizando o fluxo de vapor de água quente, exatamente como ocorre na sauna."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A sublimação fracionada envolve a passagem direta do estado sólido para o gasoso de substâncias específicas, o que não se aplica ao caso dos óleos essenciais das folhas."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A decantação sólido-líquido baseia-se na diferença de densidade para separar sólidos suspensos em líquidos, sendo incorreta para descrever a volatilização de aromas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a extração de óleos essenciais de plantas (capim-cidreira e eucalipto) através do vapor de água de uma sauna.",
+      "Esse processo tecnológico e físico-químico clássico é denominado extração por arraste (a vapor)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

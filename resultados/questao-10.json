@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 10,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-10.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H13",
+      "descricao": "Analisar a atuação dos movimentos sociais que contribuíram para mudanças ou rupturas em processos de disputa pelo poder."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H11",
+        "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conjuntura colonial",
+    "conteudos_relacionados": [
+      "Inconfidência Mineira",
+      "Conjuntura Baiana"
+    ],
+    "assunto": "Revolta dos Alfaiates (1798)",
+    "objeto_de_analise": "Comparação entre a Inconfidência Mineira (1789) e a Conjuntura Baiana (1798)",
+    "fenomeno_conceito": "Abolição da escravidão e demandas sociais populares"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A eliminação da hierarquia militar não era o foco central de diferenciação entre os projetos das sedições."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "Enquanto a Inconfidência Mineira (1789) manteve restrições em relação à manutenção do sistema escravista (devido à elite mineradora envolvida), a Conjuntura Baiana de 1798 (Revolta dos Alfaiates), de caráter mais popular, propunha a abolição da escravidão africana."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Tanto a Inconfidência Mineira quanto a Conjuntura Baiana pretendiam o rompimento com o pacto colonial e o fim do domínio metropolitano."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A supressão da propriedade fundiária não fazia parte dos programas de nenhuma das duas conjuras de forma ampla."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Ambos os movimentos tinham forte caráter republicano e antimonárquico, logo, a extinção do absolutismo não era o ponto de distinção fundamental entre eles."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-06-06T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a comparação histórica entre a Inconfidência Mineira (1789) e a Conjuntura Baiana (1798).",
+      "O texto destaca que a revolta baiana avançou sobre a 'decorrência' da integração subordinada, referindo-se diretamente à escravidão, que não foi contestada em Minas Gerais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

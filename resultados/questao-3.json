@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 3,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-3.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Analisar a ação dos estados nacionais no que se refere à dinâmica dos fluxos populacionais e no enfrentamento de problemas de ordem econômico-social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H6",
+        "descricao": "Interpretar diferentes representações gráficas e cartográficas dos espaços geográficos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Dinâmica espacial e fluxos populacionais",
+    "conteudos_relacionados": [
+      "Urbanização",
+      "Movimento pendular"
+    ],
+    "assunto": "Fluxos populacionais urbanos e mobilidade",
+    "objeto_de_analise": "O deslocamento diário entre a moradia e o local de trabalho",
+    "fenomeno_conceito": "Movimento pendular"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O êxodo rural refere-se ao deslocamento definitivo da população do campo para a cidade, o que não é o foco do texto."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O movimento pendular é o deslocamento diário de pessoas entre o local de residência e o local de trabalho ou estudo. Como as casas móveis permitem morar perto do trabalho nos dias úteis e ir para o bosque nos fins de semana, a necessidade desse deslocamento diário diminui."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A migração de retorno ocorre quando migrantes voltam à sua região de origem, o que não se relaciona com a situação apresentada."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O deslocamento sazonal está relacionado a estações do ano ou turismo periódico, diferindo da lógica de mobilidade diária tratada na questão."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A ocupação de áreas centrais não é reduzida pela proposta das casas móveis, que facilitam a mobilidade sem alterar necessariamente a ocupação central."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a dinâmica dos fluxos espaciais e a redução do deslocamento diário casa-trabalho, caracterizando o conceito geográfico de movimento pendular."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": true,
+      "data_validacao": "2023-10-27"
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

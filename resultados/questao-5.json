@@ -1,0 +1,104 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 5,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-5.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H4",
+        "descricao": "Comparar pontos de vista expressos em diferentes fontes sobre determinado aspecto da cultura."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Diversidade cultural, conflitos e vida em sociedade",
+    "conteudos_relacionados": [
+      "A Conquista da América. Conflitos entre europeus e indígenas na América colonial."
+    ],
+    "assunto": "Conquista da América e etnocentrismo europeu",
+    "objeto_de_analise": "Formas de designação dos povos indígenas pelos europeus nos textos históricos",
+    "fenomeno_conceito": "Etnocentrismo",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": false,
+        "justificativa": "Os textos tratam da homogeneização e rotulação dos povos, não da concepção idealizada do território geograficamente indiferenciado."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "Os europeus generalizavam os nativos não por perceberem uma ancestralidade comum, mas por desconhecerem ou desinteressarem-se pela diversidade cultural."
+      },
+      {
+        "alternativa": "C",
+        "correta": true,
+        "justificativa": "Os textos mostram que a imposição de termos genéricos ('índios', 'negro da terra') e a desconsideração da diversidade cultural demonstram o etnocentrismo dos europeus ao denominar povos díspares da mesma forma."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "As categorias de designação surgem do contexto da expansão marítima e colonial e da conquista da América, e não de uma transposição direta do imaginário medieval."
+      },
+      {
+        "alternativa": "E",
+        "correta": false,
+        "justificativa": "As designações derivam do processo de conquista e preconceito, não de uma visão utópica configurada a partir de fantasias de riqueza."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a forma como os europeus denominavam os indígenas durante a conquista da América, destacando a falta de interesse pela diversidade cultural e o forte preconceito (etnocentrismo)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

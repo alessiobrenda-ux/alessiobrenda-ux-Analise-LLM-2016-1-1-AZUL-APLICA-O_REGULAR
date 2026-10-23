@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 12,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-12.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Identificar os significados histórico-geográficos das relações de poder entre as nações"
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H9",
+        "descricao": "Comparar o significado histórico-geográfico das organizações políticas e socioeconômicas em escala local, regional ou mundial."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Geopolítica e conflitos internacionais",
+    "conteudos_relacionados": [
+      "Disputas territoriais marítimas",
+      "Soberania e recursos naturais"
+    ],
+    "assunto": "Conflitos geopolíticos no Mar da China Meridional",
+    "objeto_de_analise": "A instalação de plataforma petrolífera em águas contestadas e a projeção de poder estatal",
+    "fenomeno_conceito": "Soberania territorial e disputas por recursos estratégicos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta_incorreta": "Incorreta",
+      "justificativa": "As zonas econômicas especiais referem-se a áreas voltadas para a atração de investimentos industriais e comerciais, o que não é o foco principal do conflito descrito sobre águas contestadas e exploração energética marinha."
+    },
+    {
+      "alternativa": "B",
+      "correta_incorreta": "Incorreta",
+      "justificativa": "O texto não aborda a disputa ou monopólio de inovações tecnológicas de extração, mas sim a imposição de controle político e militar sobre uma área marítima contestada."
+    },
+    {
+      "alternativa": "C",
+      "correta_incorreta": "Incorreta",
+      "justificativa": "A motivação central apontada é a demonstração de força e controle territorial/político sobre águas contestadas, e não a dinamização da atividade comercial em si."
+    },
+    {
+      "alternativa": "D",
+      "correta_incorreta": "Correta",
+      "justificativa": "A ação da China ao instalar a plataforma em águas contestadas evidencia uma disputa pela jurisdição da soberania territorial e marítima, envolvendo reivindicações de soberania sobre a região e seus recursos."
+    },
+    {
+      "alternativa": "E",
+      "correta_incorreta": "Incorreta",
+      "justificativa": "O conflito relatado refere-se à exploração de petróleo e controle geopolítico de águas contestadas, e não a um embargo da produção industrial."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda relações de poder entre nações no espaço geográfico (Mar da China Meridional).",
+      "A habilidade H7 ('Identificar os significados histórico-geográficos das relações de poder entre as nações') encaixa-se perfeitamente na temática de geopolítica e disputas territoriais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

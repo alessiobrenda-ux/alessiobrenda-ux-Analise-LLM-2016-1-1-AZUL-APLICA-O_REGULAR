@@ -1,0 +1,17 @@
+QUESTÃO 49
+
+Uma ambulância **A** em movimento retilíneo e uniforme aproxima-se de um observador **O**, em repouso. A sirene emite um som de frequência constante $f_A$. O desenho ilustra as frentes de onda do som emitido pela ambulância. O observador possui um detector que consegue registrar, no esboço de um gráfico, a frequência da onda sonora detectada em função do tempo $f_O(t)$, antes e depois da passagem da ambulância por ele.
+
+**[FIGURA: Diagrama mostrando frentes de onda circulares concêntricas que estão comprimidas na direção do movimento (para a direita) e espaçadas na direção oposta, devido ao Efeito Doppler. Há um ponto 'A' com uma seta apontando para a direita representando a ambulância, e um ponto 'O' representando o observador parado logo abaixo e à direita da trajetória.]**
+
+Qual esboço gráfico representa a frequência $f_O(t)$ detectada pelo observador?
+
+**A** **[FIGURA: Gráfico cartesiano de $f_O(t)$ em função de $t$ mostrando uma onda senoidal oscilando simetricamente acima e abaixo de uma linha tracejada horizontal marcada como $f_A$.]**
+
+**B** **[FIGURA: Gráfico cartesiano de $f_O(t)$ em função de $t$ mostrando uma curva em forma de sino (gaussiana) que sobe a partir de uma linha base horizontal tracejada $f_A$ e depois retorna a ela.]**
+
+**C** **[FIGURA: Gráfico cartesiano de $f_O(t)$ em função de $t$ mostrando uma curva sigmoide (curva em 'S' deitado) que começa com valores abaixo de uma linha tracejada horizontal $f_A$, cresce monotonicamente cruzando a linha e estabiliza em um patamar superior.]**
+
+**D** **[FIGURA: Gráfico cartesiano de $f_O(t)$ em função de $t$ mostrando uma curva sigmoide decrescente que começa em um patamar elevado acima de uma linha tracejada horizontal $f_A$, decresce cruzando a linha e estabiliza em um patamar inferior.]**
+
+**E** **[FIGURA: Gráfico cartesiano de $f_O(t)$ em função de $t$ mostrando uma linha reta horizontal constante exatamente alinhada com o nível marcado no eixo vertical como $f_A$.]**

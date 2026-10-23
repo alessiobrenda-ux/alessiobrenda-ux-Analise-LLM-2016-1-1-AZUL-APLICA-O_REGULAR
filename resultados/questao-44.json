@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 44,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-44.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H19",
+        "descricao": "Reconhecer as transformações técnicas e tecnológicas que determinam as várias formas de uso e apropriação dos espaços rural e urbano."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Características e transformações das estruturas produtivas",
+    "conteudos_relacionados": [
+      "Diversidade cultural, conflitos e vida em sociedade"
+    ],
+    "assunto": "Transformações no espaço rural brasileiro",
+    "objeto_de_analise": "Modernização e novas ruralidades",
+    "fenomeno_conceito": "Globalização e modernização do campo"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto aponta para a modernização, globalização e riqueza do interior, o que não caracteriza a produção extensiva tradicional."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O texto destaca que a vida no campo mudou, tornando-se conectada e globalizada ('interior conectado, globalizado e rico'), o que reflete a expansão de atividades das novas ruralidades e a modernização das práticas e do modo de vida rural."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Relações de trabalho compulsório não condizem com a realidade de um interior moderno, rico e globalizado descrito no texto."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A questão de políticas de subsídios agrícolas não é o foco abordado na reflexão cultural e socioeconômica do texto."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O modelo cooperativo não é o aspecto central ressaltado pelo autor ao tratar das mudanças no estilo de vida e na economia do campo."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto aborda a transformação da vida no campo, que se tornou conectada, globalizada e rica.",
+      "A matriz de Ciências Humanas contempla as transformações das estruturas produtivas e as mudanças no espaço agrário."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

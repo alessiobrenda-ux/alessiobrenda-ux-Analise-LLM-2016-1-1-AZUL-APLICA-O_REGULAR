@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 61,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-61.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Interpretar modelos e experimentos para explicar fenômenos ou processos biológicos em qualquer nível de organização dos sistemas biológicos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ecologia",
+    "conteudos_relacionados": [
+      "Interações ecológicas",
+      "Dinâmica de populações"
+    ],
+    "assunto": "Predação e controle populacional em ecossistemas marinhos",
+    "objeto_de_analise": "Tabela de resultados experimentais sobre densidade e tamanho de espécies exóticas em áreas com e sem acesso de predadores",
+    "fenomeno_conceito": "Controle biológico por predação"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreta, pois os dados para algas mostram pouca variação na densidade entre as áreas com e sem tela, e algas não são animais predados por peixes nesse contexto da forma esperada."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta. Para as cracas, a densidade é maior na área com tela (300) do que sem tela (150), indicando que os peixes controlam a densidade, mas o tamanho médio é menor na área sem tela (1,5 cm) e maior com tela (2 cm), o que significa que os peixes predam os maiores ou o resultado aponta para outro grupo com maior clareza de impacto."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Correta. Para os mexilhões, a densidade é significativamente maior na área com tela (380) do que na área sem tela (200), mostrando que os peixes controlam sua densidade. Além disso, o tamanho médio na área sem tela é maior (6 cm) do que na área com tela (3 cm), indicando que os peixes predam preferencialmente os indivíduos menores."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Incorreta, pois o controle efetivo da densidade pelos peixes não ocorre de maneira evidente para todas as quatro espécies testadas (por exemplo, algas e ascídias apresentam variações irrelevantes)."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreta, pois os dados das ascídias mostram densidades muito semelhantes (55 com tela e 58 sem tela), indicando ausência de controle expressivo por parte dos peixes."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Análise da tabela de dados experimentais",
+      "Interpretação do impacto da predação sobre densidade e tamanho médio de mexilhões"
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

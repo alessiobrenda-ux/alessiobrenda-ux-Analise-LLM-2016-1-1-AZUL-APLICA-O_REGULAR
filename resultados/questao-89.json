@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 89,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-89.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Entender métodos e procedimentos próprios das ciências naturais e aplicá-los em diferentes contextos."
+    },
+    "habilidade_principal": {
+      "id": "H17",
+      "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Química",
+    "conteudos_relacionados": [
+      "Físico-Química",
+      "Leitura de Gráficos"
+    ],
+    "assunto": "Taxa média de aquecimento e propriedades das substâncias sob irradiação de micro-ondas",
+    "objeto_de_analise": "Comportamento da temperatura em função do tempo para diferentes solventes (n-hexano, água, metanol, etanol e propanol)",
+    "fenomeno_conceito": "Interação de ondas eletromagnéticas com dipolos elétricos e variação da temperatura ao longo do tempo"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A curva referente à água (H2O) apresenta um crescimento acentuado da temperatura no intervalo de 0 s a 40 s, indicando uma taxa de aquecimento alta, distante de zero."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A curva referente ao metanol (CH3OH) apresenta um aumento significativo da temperatura no intervalo analisado, logo sua taxa de aquecimento não é próxima de zero."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O etanol (CH3CH2OH) apresenta uma variação positiva expressiva na temperatura entre 0 s e 40 s, correspondendo a uma taxa de aquecimento perceptível."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O propanol (CH3CH2CH2OH) também apresenta elevação da temperatura no intervalo dado, o que afasta sua taxa de aquecimento de zero."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "O n-hexano (CH3CH2CH2CH2CH3) é representado no gráfico por uma curva quase horizontal e próxima de 30 °C ao longo de todo o intervalo de 0 s a 40 s, indicando que sua temperatura praticamente não variou e, portanto, sua taxa média de aquecimento é a mais próxima de zero."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige a interpretação de um gráfico de linha (Temperatura vs Tempo).",
+      "A habilidade H17 avalia a capacidade de relacionar informações apresentadas em gráficos.",
+      "O solvente n-hexano (representado pela fórmula CH3CH2CH2CH2CH3) mantém a linha horizontal no gráfico, evidenciando variação de temperatura nula ou próxima de zero."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

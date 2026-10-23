@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 48,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-48.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biomassa",
+    "conteudos_relacionados": [
+      "Energias Químicas no Cotidiano",
+      "Transformações Químicas e Energia"
+    ],
+    "assunto": "Biodigestão anaeróbica e produção de biogás",
+    "objeto_de_analise": "Processo de destinação e reaproveitamento de resíduos orgânicos em biodigestor",
+    "fenomeno_conceito": "Decomposição anaeróbica de matéria orgânica gerando metano para aproveitamento energético"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O biodigestor promove a decomposição anaeróbica da matéria orgânica, gerando biogás (rico em metano), que é utilizado para alimentar equipamentos (como o lampião), implicando a queima de gás metano."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O objetivo do projeto não é o armazenamento de gás carbônico, mas sim a produção e uso de gás combustível."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O processo que ocorre em um biodigestor é a digestão anaeróbica (ausência de oxigênio), e não aeróbica."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O biogás gerado a partir de fezes e sacolas biodegradáveis é uma fonte de energia renovável (biomassa), e não um combustível fóssil."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A fixação de carbono em moléculas orgânicas ocorre principalmente na fotossíntese, o que não é o foco do processo de biodigestão."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a utilização de biodigestores para transformar dejetos em energia, relacionando-se diretamente com biogás e combustíveis renováveis."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q48",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

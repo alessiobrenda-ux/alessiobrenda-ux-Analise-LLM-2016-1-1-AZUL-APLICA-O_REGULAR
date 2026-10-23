@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 46,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-46.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H18",
+      "descricao": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Soluções",
+    "conteudos_relacionados": [
+      "Polaridade das ligações",
+      "Forças intermoleculares"
+    ],
+    "assunto": "Solubilidade de compostos orgânicos",
+    "objeto_de_analise": "Interação intermolecular entre soluto (capsaicina) e solvente (água)",
+    "fenomeno_conceito": "Semelhante dissolve semelhante (polaridade)"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A lavagem com água não é ineficaz devido a reações exotérmicas com o etanol, mas sim pela polaridade e solubilidade."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "A capsaicina é uma molécula predominantemente apolar (ou com baixa polaridade devido à longa cadeia carbônica), apresentando baixíssima solubilidade em água (polar), o que impede sua remoção eficaz por meio da lavagem com água."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A permeabilidade da pele à água não é o fator limitante para a remoção da capsaicina da superfície da pele ou dos olhos."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Óleos e água são imiscíveis, logo não ocorre a solubilização do óleo em água gerando espalhamento por esse motivo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A ardência não causa evaporação rápida da água."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda claramente o conceito de solubilidade e polaridade (semelhante dissolve semelhante), típico da Química Orgânica e Físico-Química presentes na matriz de Ciências da Natureza."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

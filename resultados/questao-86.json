@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 86,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-86.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento econômico e social da humanidade."
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Reconhecer características ou propriedades de fenômenos ondulatórios ou oscilatórios, relacionando-os a seus usos em diferentes contextos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ondas estacionárias",
+    "conteudos_relacionados": [
+      "Fenômenos ondulatórios",
+      "Comprimento de onda"
+    ],
+    "assunto": "Ondas em forno de micro-ondas",
+    "objeto_de_analise": "Relação entre os antinodos de uma onda estacionária e os pontos de aquecimento (derretimento da manteiga)",
+    "fenomeno_conceito": "Antinodos (ventres) e nós de uma onda estacionária"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "Os pontos de manteiga derretida correspondem aos antinodos (pontos de amplitude máxima) da onda estacionária, onde a intensidade do campo elétrico/aquecimento é máxima. Dois pontos consecutivos de derretimento correspondem a dois antinodos consecutivos, representados na figura pelas posições I e III."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "As posições I e V correspondem a antinodos separados por um ciclo completo (comprimento de onda), não sendo pontos consecutivos de derretimento."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A posição II é um nó (amplitude zero, onde a manteiga não derrete) e a posição III é um antinodo."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "As posições II e IV correspondem a nós, onde a amplitude da onda é zero e a manteiga não derrete."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A posição II é um nó e a posição V é um antinodo."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda ondas estacionárias geradas em um forno de micro-ondas.",
+      "A manteiga derrete nos pontos de máxima intensidade (antinodos ou ventres).",
+      "A distância entre dois pontos consecutivos de derretimento corresponde à distância entre dois antinodos consecutivos, que na figura são I e III (ou III e V)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

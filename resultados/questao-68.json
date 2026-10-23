@@ -1,0 +1,81 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 68,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-68.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais."
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Razões e proporções",
+    "conteudos_relacionados": [
+      "Grandezas e unidades de medida"
+    ],
+    "assunto": "Cálculo estequiométrico aplicado ou proporção numérica em contexto industrial/ambiental",
+    "objeto_de_analise": "Quantidade de fósforo disponível na vinhaça gerada na produção de etanol",
+    "fenomeno_conceito": "Proporcionalidade direta entre volume de etanol, volume de vinhaça e concentração de nutrientes"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-13T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige o cálculo da quantidade total de fósforo (P) em kg, sabendo que para cada litro de etanol são gerados 18 L de vinhaça, e que a concentração de fósforo na vinhaça é de 60 mg/L, para uma produção de 27 000 L de etanol.",
+      "Cálculo: Volume de vinhaça = 27 000 L * 18 = 486 000 L.",
+      "Quantidade de fósforo = 486 000 L * 60 mg/L = 29 160 000 mg.",
+      "Convertendo para kg: 29 160 000 mg = 29 160 g = 29,16 kg, que é mais próxima de 29 kg (Alternativa B)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

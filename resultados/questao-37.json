@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 37,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-37.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia contemporânea",
+    "conteudos_relacionados": [
+      "Niilismo"
+    ],
+    "assunto": "Filosofia de Friedrich Nietzsche",
+    "objeto_de_analise": "O conceito de niilismo expresso na obra Assim falou Zaratustra",
+    "fenomeno_conceito": "Niilismo"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto descreve o esgotamento e a desesperança, e não a promoção da liberdade."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A passagem aborda uma crise profunda de valores e não o simples desvelar de práticas cotidianas."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O trecho de Nietzsche tem cunho filosófico-existencial e cultural, não focando nas relações de produção marxistas."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "A alegoria retrata o esgotamento das crenças, dos valores e do sentido da existência, traduzindo o niilismo como a decadência da cultura ocidental."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Embora haja desalento, o foco do niilismo abordado é a ruína dos valores e da cultura, e não uma mera amplificação da ansiedade psicológica."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto de Nietzsche ilustra a descrença generalizada e a perda de sentido (niilismo).",
+      "A alternativa D sintetiza perfeitamente a ideia de decadência cultural retratada na alegoria."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

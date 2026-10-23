@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 18,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-18.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Compreender a sociedade e a natureza, reconhecendo suas interações no espaço em diferentes contextos históricos e geográficos."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Analisar de maneira crítica as interações da sociedade com o meio físico, levando em consideração aspectos históricos e(ou) geográficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H30",
+        "descricao": "Avaliar as relações entre preservação e degradação da vida no planeta nas diferentes escalas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Questões ambientais contemporâneas",
+    "conteudos_relacionados": [
+      "Globalização e novas tecnologias",
+      "Geopolítica ambiental"
+    ],
+    "assunto": "Créditos de carbono e Protocolo de Quioto",
+    "objeto_de_analise": "Estratégia de compensação de emissões de gases de efeito estufa",
+    "fenomeno_conceito": "Desigualdade ecológica na comercialização de créditos de carbono"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A estratégia de compensação não visa diretamente à retração nos níveis de consumo, mas sim à flexibilização das metas por meio de comércio de créditos."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora possam ocorrer debates diplomáticos, a crítica central recai sobre a transferência dos impactos e custos ecológicos e não primariamente em conflitos diplomáticos."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O objetivo do mecanismo justamente é minimizar os custos globais e proteger os lucros, permitindo que quem polua pague para não reduzir diretamente, não sendo a diminuição dos lucros na produção de energia a crítica central dos opositores."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "As posições contrárias argumentam que a comercialização de créditos de carbono permite que países ou empresas ricas continuem poluindo ao comprar créditos daqueles que emitem menos, perpetuando ou aprofundando a desigualdade na distribuição do impacto ecológico e na responsabilidade ambiental."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O mecanismo busca evitar o decréscimo drástico do crescimento econômico ao flexibilizar as formas de cumprimento das metas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a comercialização internacional de créditos de carbono decorrente do Protocolo de Quioto.",
+      "A crítica à compensação de emissões reside no fato de que os poluidores podem simplesmente pagar para continuar poluindo, gerando assimetrias socioambientais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q18",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

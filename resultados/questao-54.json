@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 54,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-54.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Utilizar leis físicas e (ou) químicas para interpretar processos naturais ou tecnológicos inseridos no contexto da termodinâmica e(ou) do eletromagnetismo."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H17",
+        "descricao": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Termologia",
+    "conteudos_relacionados": [
+      "Calorimetria",
+      "Potência térmica"
+    ],
+    "assunto": "Quantidade de calor sensível e Potência",
+    "objeto_de_analise": "Fluxo de massa necessário para resfriar uma usina sem violar limites de temperatura impostos por norma ambiental.",
+    "fenomeno_conceito": "Troca de calor e variação de temperatura"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreta. Corresponde a um cálculo incorreto considerando apenas metade da potência dissipada ou erro na conversão de unidades."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta. O valor obtido resulta do uso equivocado da potência elétrica gerada em vez da potência dissipada."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Correta. A potência dissipada é de 2,0 MW = 2.000.000 J/s. Utilizando a equação do calor sensível P = μ × c × ΔT, onde P = 2.000.000 J/s, c = 4.000 J/(kg °C) e ΔT = 3 °C, tem-se: 2.000.000 = μ × 4.000 × 3, o que resulta em μ ≈ 166,67 kg/s, arredondando para 167 kg/s."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Incorreta. Resultado derivado de equívoco na consideração da variação de temperatura ou da potência."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreta. Valor superestimado decorrente de erros operacionais no cálculo do fluxo de massa."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda conceitos de termodinâmica e calorimetria aplicados a um problema tecnológico real.",
+      "A habilidade H21 avalia o uso de leis físicas em contextos termodinâmicos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 39,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-39.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H27",
+        "descricao": "Analisar de maneira crítica as interações da sociedade com o meio físico, levando em consideração aspectos históricos e(ou) geográficos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impactos ambientais das atividades econômicas",
+    "conteudos_relacionados": [
+      "Sobrepesca",
+      "Sustentabilidade"
+    ],
+    "assunto": "Pesca industrial e esgotamento de recursos pesqueiros",
+    "objeto_de_analise": "O esgotamento de cardumes devido à pesca predatória industrial",
+    "fenomeno_conceito": "Insustentabilidade ambiental e econômica",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": true,
+        "justificativa": "O texto aponta o esgotamento dos estoques de peixes (como o bacalhau) devido à pesca excessiva e predatória que migra para novas regiões, evidenciando a insustentabilidade do atual modelo de exploração dos recursos naturais."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "O texto aborda a pesca industrial em grandes mares e oceanos, inclusive nos limites da Antártida, e não especificamente em ecossistemas costeiros."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "A problemática central não é a inviabilidade comercial, mas sim o esgotamento físico dos recursos pesqueiros decorrente da exploração desmedida."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "O desaparecimento dos cardumes é causado pela ação antrópica (sobrepesca industrial), e não por uma mudança natural nos oceanos."
+      },
+      {
+        "alternativa": "E",
+        "correta": false,
+        "justificativa": "O foco do texto é o esgotamento dos recursos marinhos globais pela pesca industrial, e não a vulnerabilidade social de populações pobres."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Texto aborda o desaparecimento de cardumes devido à sobrepesca e pesca industrial.",
+      "Gabarito oficial é a alternativa A."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_39",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

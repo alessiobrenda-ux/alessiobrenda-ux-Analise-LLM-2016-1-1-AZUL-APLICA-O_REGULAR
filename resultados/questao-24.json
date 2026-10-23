@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 24,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-24.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H14",
+      "descricao": "Comparar diferentes pontos de vista, presentes em textos analíticos e interpretativos, sobre situação ou fatos de natureza histórico-geográfica acerca das instituições sociais, políticas e econômicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H13",
+        "descricao": "Analisar a atuação dos movimentos sociais que contribuíram para mudanças ou rupturas em processos de disputa pelo poder."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Formas de organização social, movimentos sociais, pensamento político e ação do Estado",
+    "conteudos_relacionados": [
+      "Cidadania e democracia"
+    ],
+    "assunto": "Teorias da democracia",
+    "objeto_de_analise": "Diferenças entre democracia deliberativa e democracia ativista",
+    "fenomeno_conceito": "Democracia, consenso, conflito político e movimentos sociais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não trata de decisão da maioria nem de uniformização de direitos, mas sim de deliberação para acordo versus oposição crítica devido a desigualdades estruturais."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "As concepções abordadas tratam de deliberação/consenso e ativismo/oposição crítica, e não especificamente de organização de eleições e movimento anarquista."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A democracia deliberativa busca chegar a um acordo satisfatório para todos (obtenção do consenso), enquanto a democracia ativista recomenda a oposição crítica e a atuação daqueles que se preocupam com a justiça (mobilização das minorias/grupos afetados pelas desigualdades estruturais)."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto aborda a busca por acordo consensual e a oposição crítica, e não fragmentação da participação ou desobediência civil como eixos imprescindíveis das definições dadas."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A democracia deliberativa foca no acordo consensual e não na imposição de resistência, tornando a alternativa incorreta na ordem solicitada."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão exige a comparação de dois pontos de vista sobre a democracia (deliberativa vs ativista).",
+      "A habilidade H14 da matriz de Ciências Humanas trata exatamente de comparar diferentes pontos de vista em textos analíticos sobre instituições políticas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

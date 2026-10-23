@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 36,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-36.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H6",
+      "descricao": "Interpretar diferentes representações gráficas e cartográficas dos espaços geográficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H26",
+        "descricao": "Identificar em fontes diversas o processo de ocupação dos meios físicos e as relações da vida humana com a paisagem."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Recursos hídricos; bacias hidrográficas e seus aproveitamentos",
+    "conteudos_relacionados": [
+      "Relação homem-natureza, a apropriação dos recursos naturais pelas sociedades ao longo do tempo"
+    ],
+    "assunto": "Dessalinização de água",
+    "objeto_de_analise": "Mapa de distribuição mundial de usinas de dessalinização",
+    "fenomeno_conceito": "Escassez hídrica e tecnologias de obtenção de água potável"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O pioneirismo tecnológico não é o fator principal que justifica a concentração das usinas nas regiões apontadas, visto que a necessidade do recurso é o motivador central."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A condição hidropedológica refere-se às características de solos e águas subterrâneas em termos agrícolas/pedológicos, não sendo o foco principal da dessalinização em larga escala nesses países áridos."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A concentração de usinas de dessalinização em países como Arábia Saudita, Emirados Árabes Unidos e Estados Unidos (áreas áridas ou semiáridas) justifica-se primordialmente pela escassez de recursos hídricos potáveis naturais, exigindo alternativas tecnológicas para o suprimento de água."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Embora as mudanças climáticas afetem o regime de chuvas, o mapa retrata uma necessidade estrutural histórica de regiões áridas (como o Oriente Médio) devido à escassez crônica, e não pontualmente às alterações climáticas recentes."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O processo de dessalinização consome muita energia e gera resíduos (salmoura), não sendo primariamente motivado pela busca de sustentabilidade ambiental, mas sim pela sobrevivência e abastecimento."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a interpretação de um mapa cartográfico temático sobre a capacidade de dessalinização.",
+      "Os países com maior capacidade instalada (Arábia Saudita, Emirados Árabes Unidos, EUA) possuem extensas áreas áridas com escassez de água potável."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

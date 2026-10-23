@@ -1,0 +1,103 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 60,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-60.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Forças intermoleculares",
+    "conteudos_relacionados": [
+      "Propriedades de materiais",
+      "Adsorção"
+    ],
+    "assunto": "Forças intermoleculares envolvidas na adsorção de compostos orgânicos em carvão ativado",
+    "objeto_de_analise": "Interações entre o benzeno e a superfície do carvão ativado",
+    "fenomeno_conceito": "Dipolo induzido – dipolo induzido (forças de London)"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Incorreta. Ligações dissulfeto ocorrem tipicamente em proteínas, envolvendo átomos de enxofre, o que não se aplica ao sistema carvão-benzeno."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Incorreta. O enunciado especifica que ocorrem interações intermoleculares, e não ligações químicas intramoleculares como as covalentes."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Incorreta. Ligações de hidrogênio ocorrem quando o hidrogênio está ligado covalentemente a F, O ou N, o que não ocorre na molécula de benzeno nem na superfície predominantemente apolar do carvão."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "Correta. O benzeno é uma molécula apolar e a superfície do carvão ativado é constituída por carbono (também apolar). Entre espécies apolares, as interações intermoleculares predominantes são do tipo dipolo induzido – dipolo induzido (forças de London)."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Incorreta. Interações dipolo permanente – dipolo permanente ocorrem entre moléculas polares, o que não é o caso do benzeno."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O enunciado menciona explicitamente que o fenômeno ocorre por meio de interações do tipo intermoleculares.",
+      "O benzeno (C6H6) é uma molécula apolar e simétrica.",
+      "O carvão ativado possui elevado teor de carbono e caráter apolar.",
+      "A interação entre moléculas apolares é classificada como forças de dispersão de London ou dipolo induzido – dipolo induzido."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q60",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

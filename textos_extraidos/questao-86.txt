@@ -1,0 +1,13 @@
+QUESTÃO 86
+
+Um experimento para comprovar a natureza ondulatória da radiação de micro-ondas foi realizado da seguinte forma: anota-se a frequência de operação de um forno de micro-ondas e, em seguida, retirou-se sua plataforma giratória. No seu lugar, colocou-se uma travessa refratária com uma camada grossa de manteiga. Depois disso, o forno foi ligado por alguns segundos. Ao se retirar a travessa refratária do forno, observou-se que havia três pontos de manteiga derretida alinhados sobre toda a travessa. Parte da onda estacionária gerada no interior do forno é ilustrada na figura.
+
+[FIGURA: Diagrama esquemático de uma onda estacionária representado por linhas contínuas e tracejadas em forma de cristas e vales alternados. Há cinco setas verticais apontando para pontos específicos da onda, rotuladas de I a V da esquerda para a direita. As setas I, III e V apontam para os antinodos (pontos de amplitude máxima da onda), enquanto as setas II e IV apontam para os nós (pontos de amplitude zero, onde a linha contínua intercepta a tracejada).]
+
+De acordo com a figura, que posições correspondem a dois pontos consecutivos da manteiga derretida?
+
+A) I e III
+B) I e V
+C) II e III
+D) II e IV
+E) II e V

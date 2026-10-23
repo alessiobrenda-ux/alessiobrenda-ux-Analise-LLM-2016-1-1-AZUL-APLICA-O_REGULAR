@@ -1,0 +1,76 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 75,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-75.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais."
+    },
+    "habilidade_principal": {
+      "id": "H14",
+      "descricao": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia",
+    "conteudos_relacionados": [
+      "Fisiologia vegetal"
+    ],
+    "assunto": "Transporte de seiva xilêmica",
+    "objeto_de_analise": "Teoria da tensão-coesão-adesão",
+    "fenomeno_conceito": "Transpiração vegetal",
+    "analise_alternativas": [],
+    "auditoria_da_ia": {
+      "modelo": null,
+      "versao": null,
+      "datetime": null,
+      "confianca": null,
+      "evidencias": [],
+      "proveniencia": {
+        "arquivo_questao": null,
+        "arquivo_matriz": null
+      },
+      "validacao_humana": {
+        "validado": null,
+        "data_validacao": null
+      }
+    },
+    "estudante": {
+      "nome_completo": null,
+      "colegio": null,
+      "turma": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

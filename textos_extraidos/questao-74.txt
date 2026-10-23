@@ -1,0 +1,13 @@
+QUESTÃO 74
+
+Três lâmpadas idênticas foram ligadas no circuito esquematizado. A bateria apresenta resistência interna desprezível, e os fios possuem resistência nula. Um técnico fez uma análise do circuito para prever a corrente elétrica nos pontos: A, B, C, D e E; e rotulou essas correntes de $I_A$, $I_B$, $I_C$, $I_D$ e $I_E$, respectivamente.
+
+**[FIGURA: Diagrama de um circuito elétrico contendo três lâmpadas idênticas identificadas como $L_1$, $L_2$ e $L_3$, ligadas em paralelo entre dois barramentos verticais principais conectados a uma bateria $V$ na parte inferior. O terminal positivo da bateria (barra maior) está à direita, e o negativo à esquerda. Os pontos de medição de corrente estão indicados por letras e pontos pretos: ponto A no fio que sai do polo negativo da bateria; ponto B no ramo vertical esquerdo, abaixo da conexão da lâmpada $L_2$; ponto C no ramo horizontal direito conectado ao terminal inferior da lâmpada $L_1$; ponto D no ramo horizontal direito conectado ao terminal inferior da lâmpada $L_2$; e ponto E no fio que retorna ao polo positivo da bateria.]**
+
+O técnico concluiu que as correntes que apresentam o mesmo valor são
+
+A) $I_A = I_E$ e $I_C = I_D$.
+B) $I_A = I_B = I_E$ e $I_C = I_D$.
+C) $I_A = I_B$, apenas.
+D) $I_A = I_B = I_E$, apenas.
+E) $I_C = I_D$, apenas.

@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 30,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-30.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Compreender a sociedade e a natureza, reconhecendo suas interações no espaço em diferentes contextos históricos e geográficos."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Analisar de maneira crítica as interações da sociedade com o meio físico, levando em consideração aspectos históricos e(ou) geográficos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H30",
+        "descricao": "Avaliar as relações entre preservação e degradação da vida no planeta nas diferentes escalas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impactos ambientais das atividades econômicas no Brasil",
+    "conteudos_relacionados": [
+      "Produção e transformação dos espaços agrários",
+      "Modernização da agricultura e estruturas agrárias tradicionais"
+    ],
+    "assunto": "Expansão agrícola e degradação do Cerrado",
+    "objeto_de_analise": "O conceito de hotspot de biodiversidade e as ameaças antrópicas ao bioma Cerrado",
+    "fenomeno_conceito": "Desmatamento e perda de biodiversidade devido à expansão da fronteira agrícola"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A atividade turística não é o principal vetor de destruição em massa e perda de biodiversidade que caracteriza o Cerrado como hotspot global."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A implantação de parques ecológicos é uma medida de conservação, e não uma causa de ameaça ou necessidade de ações de preservação."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Embora ocorra mineração no Cerrado, a principal causa histórica e atual de devastação em larga escala do bioma é a conversão de áreas nativas para a agropecuária."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O extrativismo vegetal existe, mas não constitui o fator determinante em grande escala para a classificação do Cerrado como área altamente ameaçada (hotspot)."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "A expansão da fronteira agrícola (especialmente o cultivo de grãos e a pecuária extensiva) nas últimas décadas é a principal causa da degradação e da perda de habitat no bioma Cerrado, justificando sua inclusão como hotspot de biodiversidade."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda o bioma Cerrado, hotspots de biodiversidade e ações antrópicas.",
+      "O gabarito oficial da questão 30 do ENEM 2016 é a alternativa E."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

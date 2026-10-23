@@ -1,0 +1,23 @@
+QUESTÃO 59
+
+Por apresentar significativa resistividade elétrica, o grafite pode ser utilizado para simular resistores elétricos em circuitos desenhados no papel, com o uso de lápis e lapiseiras. Dependendo da espessura e do comprimento das linhas desenhadas, é possível determinar a resistência elétrica de cada traçado produzido. No esquema foram utilizados três tipos de lápis diferentes (2H, HB e 6B) para efetuar três traçados distintos.
+
+[FIGURA: Esquema mostrando três linhas pretas com terminais circulares nas pontas, representando traçados de lápis. A primeira linha, superior, é em formato de zigue-zague e está identificada ao lado como "2H". A segunda linha, intermediária, é reta e horizontal, identificada como "HB". A terceira linha, inferior, é curva em forma de arco (semicírculo), identificada como "6B".]
+
+Munido dessas informações, um estudante pegou uma folha de papel e fez o desenho de um sorvete de casquinha utilizando-se desses traçados. Os valores encontrados nesse experimento, para as resistências elétricas (R), medidas com o auxílio de um ohmímetro ligado nas extremidades das resistências, são mostrados na figura. Verificou-se que os resistores obedeciam à Lei de Ohm.
+
+[FIGURA: Diagrama esquemático de um circuito em forma de sorvete de casquinha, contendo três vértices rotulados como A, B e C. Entre os terminais A e B há um resistor em zigue-zague com valor de 20 kΩ e, por cima dele, um arco conectando A a B com valor de 5 kΩ. Do terminal A parte um traçado reto até o vértice C, com valor de 10 kΩ. Do terminal B parte outro traçado reto até o vértice C, também com valor de 10 kΩ.]
+
+Na sequência, conectou o ohmímetro nos terminais A e B do desenho e, em seguida, conectou-o nos terminais B e C, anotando as leituras $R_{AB}$ e $R_{BC}$, respectivamente.
+
+Ao estabelecer a razão $\frac{R_{AB}}{R_{BC}}$, qual resultado o estudante obteve?
+
+A) $1$
+
+B) $\frac{4}{7}$
+
+C) $\frac{10}{27}$
+
+D) $\frac{14}{81}$
+
+E) $\frac{4}{81}$

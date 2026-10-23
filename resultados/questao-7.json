@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 7,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-7.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Associar as manifestações culturais do presente aos seus processos históricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H5",
+        "descricao": "Identificar as manifestações ou representações da diversidade do patrimônio cultural e artístico em diferentes sociedades."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Diversidade cultural, conflitos e vida em sociedade",
+    "conteudos_relacionados": [
+      "Movimentos culturais no mundo ocidental e seus impactos na vida política e social"
+    ],
+    "assunto": "Estereótipos de gênero e machismo",
+    "objeto_de_analise": "Comparação entre uma propaganda histórica (1968) que restringe o papel da mulher ao trabalho doméstico e comentários machistas na internet em 2016 sobre a presença feminina na Nasa",
+    "fenomeno_conceito": "Manutenção de estereótipos de gênero ao longo do tempo"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O foco dos textos não é a elitização da carreira científica, mas sim a divisão sexual do trabalho e os papéis de gênero impostos às mulheres."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O anúncio reforça o trabalho doméstico como obrigação feminina, mas a repercussão da notícia de 2016 trata de mulheres no espaço, não de qualificar a atividade doméstica."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A ambição de indústrias patrocinadoras não é o tema central abordado na comparação entre os dois textos."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "A propaganda antiga associando a mulher no futuro (mesmo no espaço) à limpeza, somada aos comentários machistas na internet em 2016 frente à conquista de espaço por mulheres na Nasa, evidencia a persistência e manutenção de estereótipos de gênero."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Os textos demonstram justamente a resistência à equiparação de papéis, evidenciando o preconceito e o machismo."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "Anúncio de 1968 direcionando a mulher para a limpeza.",
+      "Comentários machistas em 2016 contra mulheres na Nasa.",
+      "Gabarito oficial do ENEM 2016 correspondente à alternativa D."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q7",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

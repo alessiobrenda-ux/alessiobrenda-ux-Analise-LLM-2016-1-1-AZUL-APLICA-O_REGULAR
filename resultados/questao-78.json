@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 78,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-78.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Avaliar propostas de intervenção no meio ambiente aplicando conhecimentos químicos, observando riscos ou benefícios."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H19",
+        "descricao": "Avaliar métodos, processos ou procedimentos das ciências naturais que contribuam para diagnosticar ou solucionar problemas de ordem social, econômica ou ambiental."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Equilíbrio Químico",
+    "conteudos_relacionados": [
+      "Química Ambiental",
+      "Ácidos e Bases"
+    ],
+    "assunto": "Equilíbrio ácido-base em solução aquosa e remoção de gases poluentes",
+    "objeto_de_analise": "Constantes de equilíbrio e basicidade de substâncias para neutralização de gases ácidos",
+    "fenomeno_conceito": "Neutralização de gases causadores de chuva ácida por soluções básicas"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O fenol é um ácido fraco e não é eficiente para remover gases ácidos poluentes."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A piridina apresenta baixa constante de basicidade em comparação a outras opções, sendo menos eficiente na remoção."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A metilamina é uma base, mas possui constante de basicidade menor que a do hidrogenofosfato de potássio."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "O hidrogenofosfato de potássio apresenta caráter básico em solução e a maior constante de basicidade (ou seja, maior tendência a reagir com os gases ácidos gerados na combustão) entre as substâncias com comportamento básico listadas, tornando-se mais eficiente."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O hidrogenosulfato de potássio ioniza liberando íons $H_3O^+$, tendo caráter ácido, o que agravaria o problema em vez de remover os gases ácidos."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão trata da remoção de gases poluentes ácidos gerados na combustão de pneus.",
+      "Para neutralizar gases ácidos, é necessária uma substância de caráter básico com maior constante de basicidade ($Kb$).",
+      "A análise da tabela mostra o hidrogenofosfato de potássio com a constante favorável para essa finalidade."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q78",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

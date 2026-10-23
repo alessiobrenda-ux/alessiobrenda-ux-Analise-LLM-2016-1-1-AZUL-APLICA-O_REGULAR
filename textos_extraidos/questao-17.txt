@@ -1,0 +1,27 @@
+QUESTÃO 17
+
+[FIGURA: Logotipo da ONU (Organização das Nações Unidas) em preto e branco. A imagem consiste em um mapa-múndi visto do Polo Norte, centrado no Polo Norte, projetado dentro de uma projeção azimutal equidistante polar, cercado por dois ramos de oliveira abertos na parte inferior, que simbolizam a paz.]
+
+Disponível em: www.unric.org. Acesso em: 9 ago. 2013.
+
+A ONU faz referência a uma projeção cartográfica em seu logotipo. A figura que ilustra o modelo dessa projeção é:
+
+[FIGURA: Opção A: Representação de uma projeção plana (ou azimutal), onde um plano tangente toca a esfera terrestre na região polar superior (polo norte), mostrando a grade de meridianos e paralelos projetados sobre esse plano horizontal.]
+
+**A**
+
+[FIGURA: Opção B: Representação de uma projeção cônica, onde um cone envolve a esfera terrestre tangenciando-a em uma faixa de latitude média.]
+
+**B**
+
+[FIGURA: Opção C: Representação de uma projeção cilíndrica transversal ou oblíqua, onde um cilindro envolve verticalmente a esfera terrestre, cortando-a pelos polos ou em posição lateral.]
+
+**C**
+
+[FIGURA: Opção D: Representação de uma projeção plana inclinada, onde um plano toca a esfera terrestre obliquamente.]
+
+**D**
+
+[FIGURA: Opção E: Representação de uma projeção cilíndrica normal (ou equatorial), onde um cilindro envolve a esfera terrestre tangenciando-a na linha do equador.]
+
+**E**

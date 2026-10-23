@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 53,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-53.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biocombustíveis",
+    "conteudos_relacionados": [
+      "Química Orgânica",
+      "Bioquímica"
+    ],
+    "assunto": "Produção de etanol a partir de amido de milho",
+    "objeto_de_analise": "Etapa de hidrólise no processo de fabricação do etanol",
+    "fenomeno_conceito": "Hidrólise enzimática do amido em glicose para fermentação pelas leveduras"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A glicose é o monossacarídeo resultante da quebra do amido, e não convertida em sacarose."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "As enzimas utilizadas geralmente são adicionadas ou provenientes de micro-organismos/malte, e não enzimas próprias da planta que precisam ser ativadas."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A maceração tem outras finalidades físicas, mas o objetivo principal da hidrólise química ou enzimática é a quebra de ligações glicosídicas."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "O milho é rico em amido (polissacarídeo), que não é fermentado diretamente pelas leveduras. A etapa de hidrólise quebra o amido em açúcares menores (como a glicose), que servem de substrato para a fermentação."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A hidrólise não tem a função de padronizar grãos, mas sim de transformar quimicamente os polímeros em monossacarídeos fermentáveis."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão aborda a obtenção de etanol a partir do milho.",
+      "Identifica a etapa de hidrólise como conversão de amido em açúcares fermentáveis."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

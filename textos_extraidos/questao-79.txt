@@ -1,0 +1,15 @@
+QUESTÃO 79
+
+Vários métodos são empregados para prevenção de infecções por microrganismos. Dois desses métodos utilizam microrganismos vivos e são eles: as vacinas atenuadas, constituídas por patógenos avirulentos, e os probióticos que contêm bactérias benéficas. Na figura são apresentados cinco diferentes mecanismos de exclusão de patógenos pela ação dos probióticos no intestino de um animal.
+
+[FIGURA: Ilustração esquemática do intestino de um animal mostrando cinco mecanismos de ação de probióticos contra patógenos. A parte superior e central mostra a mucosa intestinal revestida por células intestinais com microvilosidades e células dendríticas, cobertas por um biofilme. Os cinco mecanismos estão numerados e indicados por setas: 1-Competição por nutrientes (bactérias probióticas e patógenos competindo por fontes de nutrientes); 2-Produção de substâncias antimicrobianas (probióticos liberando compostos que afetam os patógenos); 3-Disputa por sítio de adesão (patógenos impedidos de se fixar devido à ocupação dos receptores); 4-Estímulo à produção de imunoglobulinas (células dendríticas e imunoglobulinas agindo em resposta); 5-Manutenção da integridade epitelial. Abaixo, há uma legenda indicando os ícones para Nutrientes (formas em diamante), Patógeno (bactéria ondulada), Probióticos (esferas e bastonetes escuros) e Imunoglobulina (molécula em formato de Y).]
+
+McALLISTER, T. A. et al. Review: The use of direct fed microbials to mitigate pathogens and enhance production in cattle. **Can. J. Anim. Sci.**, jan. 2011 (adaptado).
+
+Qual mecanismo de ação desses probióticos promove um efeito similar ao da vacina?
+
+A 5
+B 4
+C 3
+D 2
+E 1

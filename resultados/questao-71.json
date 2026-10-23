@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 71,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-71.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C8",
+      "descricao": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H28",
+      "descricao": "Associar características adaptativas dos organismos com seu modo de vida ou com seus limites de distribuição em diferentes ambientes, em especial em ambientes brasileiros."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Ecologia e ciências ambientais",
+    "conteudos_relacionados": [
+      "Identidade dos seres vivos"
+    ],
+    "assunto": "Adaptações vegetais aos biomas brasileiros",
+    "objeto_de_analise": "Características morfológicas e fisiológicas de plantas de manguezal",
+    "fenomeno_conceito": "Halofitismo e pneumatóforos",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": false,
+        "justificativa": "O Cerrado apresenta vegetação adaptada a solos ácidos e com boa drenagem, além de adaptações contra o fogo e seca (esclerofilia), e não possui raízes respiratórias para substrato lamacento."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "Os Pampas caracterizam-se predominantemente por vegetação herbácea (gramíneas), sem as adaptações morfológicas descritas para ambientes lamacentos e hipoxigenados."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "O Pantanal possui vegetação influenciada por inundações periódicas, mas não é caracterizado pelas glândulas de sal e pneumatóforos típicos de ambientes estuarinos salinos."
+      },
+      {
+        "alternativa": "D",
+        "correta": true,
+        "justificativa": "O Manguezal é um bioma de transição entre terra e mar, com solo lamacento, pobre em oxigênio (exigindo raízes respiratórias ou pneumatóforos), alta salinidade (glândulas de sal) e oscilação de maré."
+      },
+      {
+        "alternativa": "E",
+        "correta": false,
+        "justificativa": "A Mata de Cocais é uma formação de transição rica em palmeiras (como babaçu e carnaúba), sem as adaptações específicas para eliminação de sais e respiração em substrato lodoso."
+      }
+    ],
+    "auditoria_da_ia": {
+      "modelo": "gpt-4o",
+      "versao": "2024-05-13",
+      "datetime": "2023-10-27T00:00:00Z",
+      "confianca": 1.0,
+      "evidencias": [
+        "A descrição menciona raízes que se expandem horizontalmente para ancoragem, raízes verticais (pneumatóforos) devido à baixa oxigenação e glândulas para eliminação de sal.",
+        "Essas características são clássicas da flora de manguezais."
+      ],
+      "proveniencia": {
+        "arquivo_questao": "ENEM 2016",
+        "arquivo_matriz": "Matriz ENEM"
+      },
+      "validacao_humana": {
+        "validado": false,
+        "data_validacao": null
+      }
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

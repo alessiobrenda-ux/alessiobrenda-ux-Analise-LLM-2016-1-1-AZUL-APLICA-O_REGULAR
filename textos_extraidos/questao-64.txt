@@ -1,0 +1,25 @@
+QUESTÃO 64
+
+TEXTO I
+
+Biocélulas combustíveis são uma alternativa tecnológica para substituição das baterias convencionais. Em uma biocélula microbiológica, bactérias catalisam reações de oxidação de substratos orgânicos. Liberam elétrons produzidos na respiração celular para um eletrodo, onde fluem por um circuito externo até o cátodo do sistema, produzindo corrente elétrica. Uma reação típica que ocorre em biocélulas microbiológicas utiliza o acetato como substrato.
+
+AQUINO NETO, S. **Preparação e caracterização de bioanodos para biocélula a combustível etanol/O₂**. Disponível em: www.teses.usp.br. Acesso em: 23 jun. 2015 (adaptado).
+
+TEXTO II
+
+Em sistemas bioeletroquímicos, os potenciais padrão ($E^{\circ\,\prime}$) apresentam valores característicos. Para as biocélulas de acetato, considere as seguintes semirreações de redução e seus respectivos potenciais:
+
+$2\,\text{CO}_2 + 7\,\text{H}^+ + 8\,\text{e}^- \longrightarrow \text{CH}_3\text{COO}^- + 2\,\text{H}_2\text{O} \quad E^{\circ\,\prime} = -0,3\text{ V}$
+
+$\text{O}_2 + 4\,\text{H}^+ + 4\,\text{e}^- \longrightarrow 2\,\text{H}_2\text{O} \quad E^{\circ\,\prime} = 0,8\text{ V}$
+
+SCOTT, K.; YU, E. H. **Microbial electrochemical and fuel cells: fundamentals and applications**. **Woodhead Publishing Series in Energy**, n. 88, 2016 (adaptado).
+
+Nessas condições, qual é o número mínimo de biocélulas de acetato, ligadas em série, necessárias para se obter uma diferença de potencial de $4,4\text{ V}$?
+
+A 3
+B 4
+C 6
+D 9
+E 15

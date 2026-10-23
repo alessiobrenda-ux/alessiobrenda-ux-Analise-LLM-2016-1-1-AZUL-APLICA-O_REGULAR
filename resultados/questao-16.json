@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 16,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-16.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H9",
+      "descricao": "Comparar o significado histórico-geográfico das organizações políticas e socioeconômicas em escala local, regional ou mundial."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Analisar diferentes processos de produção ou circulação de riquezas e suas implicações sócio-espaciais."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Globalização e blocos econômicos",
+    "conteudos_relacionados": [
+      "Redes produtivas globais",
+      "Divisão internacional do trabalho"
+    ],
+    "assunto": "Parceria Transpacífica (TPP)",
+    "objeto_de_analise": "Composição estratégica e espacial de blocos econômicos transnacionais",
+    "fenomeno_conceito": "Globalização e interdependência econômica",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": false,
+        "justificativa": "O bloco inclui países com grande disparidade de padrões sociais (como Vietnã e Estados Unidos), logo o fator unificador principal para redes produtivas não é o padrão social homogêneo."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "Os países membros da Parceria Transpacífica não possuem uma moeda única ou sistema monetário integrado (como a Zona do Euro)."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "Embora alguns membros sejam altamente tecnológicos, o bloco engloba economias de perfis tecnológicos bastante variados (países desenvolvidos e em desenvolvimento)."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "Os países do bloco possuem culturas amplamente diversas, abrangendo a América do Norte, América do Sul, Ásia e Oceania, não havendo identidades culturais semelhantes."
+      },
+      {
+        "alternativa": "E",
+        "correta": true,
+        "justificativa": "A Parceria Transpacífica reúne nações com economias complementares em termos de localização e inserção nas cadeias globais de valor, unindo economias asiáticas exportadoras, economias da Oceania e economias americanas banhadas pelo Pacífico."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão aborda a Parceria Transpacífica (TPP) e sua lógica econômica de redes produtivas globais.",
+      "A matriz de Ciências Humanas contempla a análise de organizações políticas e socioeconômicas mundiais na Competência 2, Habilidade 9."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

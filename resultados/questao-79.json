@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 79,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-79.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais."
+    },
+    "habilidade_principal": {
+      "id": "H14",
+      "descricao": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H30",
+        "descricao": "Avaliar propostas de alcance individual ou coletivo, identificando aquelas que visam à preservação e a implementação da saúde individual, coletiva ou do ambiente."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia",
+    "conteudos_relacionados": [
+      "Imunologia",
+      "Microbiologia"
+    ],
+    "assunto": "Mecanismos de ação de probióticos e comparação com vacinas",
+    "objeto_de_analise": "Mecanismo de estímulo à produção de imunoglobulinas por probióticos",
+    "fenomeno_conceito": "Resposta imunológica e imunização"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O mecanismo 5 refere-se à manutenção da integridade epitelial, que é uma barreira física e não o princípio de imunização ativa característico das vacinas."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O mecanismo 4 refere-se ao estímulo à produção de imunoglobulinas, promovendo uma resposta imunológica similar ao efeito das vacinas, que estimulam o sistema imune a produzir anticorpos."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O mecanismo 3 refere-se à disputa por sítio de adesão, atuando por exclusão competitiva e não por estimulação do sistema imune como as vacinas."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O mecanismo 2 refere-se à produção de substâncias antimicrobianas, o que caracteriza uma ação inibitória direta sobre os patógenos, distinta do mecanismo vacinal."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O mecanismo 1 refere-se à competição por nutrientes, outro exemplo de exclusão competitiva e não de resposta imunológica adaptativa."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a imunologia e a comparação funcional entre vacinas e probióticos.",
+      "A vacina atua estimulando o sistema imune a produzir anticorpos (imunoglobulinas).",
+      "O mecanismo 4 da figura indica explicitamente o 'Estímulo à produção de imunoglobulinas'."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

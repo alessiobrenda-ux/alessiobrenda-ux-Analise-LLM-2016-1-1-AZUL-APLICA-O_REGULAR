@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 2,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-2.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Relacionar cidadania e democracia na organização das sociedades."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H3",
+        "descricao": "Associar as manifestações culturais do presente aos seus processos históricos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Redemocratização do Brasil",
+    "conteudos_relacionados": [
+      "Nova República",
+      "Regime Militar"
+    ],
+    "assunto": "Transição política e continuidades institucionais no pós-ditadura",
+    "objeto_de_analise": "O texto do Jornal do Brasil abordando os primeiros anos da Nova República.",
+    "fenomeno_conceito": "Transição democrática",
+    "assunto_detalhado": "A permanência de elites políticas tradicionais e agentes do regime autoritário na nova fase democrática do Brasil."
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O bipartidarismo vigorou durante parte do regime militar (Arena e MDB), mas foi extinto em 1979 com a reforma partidária, havendo pluripartidarismo no período da Nova República."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A redemocratização e a Constituição de 1988 garantiram anistia e o fim dos mecanismos repressivos diretos de detenção por crimes de subversão típicos do AI-5."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A Nova República foi marcada pela transição negociada e liderada, em grande parte, por políticos que atuaram ou fizeram parte da estrutura do regime militar (como o próprio Tancredo Neves, ex-ministro e governador alinhado ao sistema anterior)."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Os Atos Institucionais foram revogados, sobretudo com a promulgação da Constituição de 1988, não havendo prorrogação de suas restrições formais."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O Plano Cruzado tentou o congelamento de preços, mas este não gerou estabilidade econômica duradoura; pelo contrário, o período foi marcado por forte inflação e hiperinflação."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-06-05T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "Questão clássica do ENEM sobre a Nova República e as permanências políticas do regime militar."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016_q02",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

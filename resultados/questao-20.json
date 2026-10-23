@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 20,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-20.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Analisar a importância dos valores éticos na estruturação política das sociedades."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia Moderna",
+    "conteudos_relacionados": [
+      "Racionalismo",
+      "Ren Descartes"
+    ],
+    "assunto": "A busca pelo conhecimento verdadeiro e o método cartesiano",
+    "objeto_de_analise": "O texto de Descartes sobre a necessidade de julgamento próprio e resolução de problemas em vez da mera memorização.",
+    "fenomeno_conceito": "Autonomia do pensamento e dúvida metódica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Descartes é um expoente do racionalismo, valorizando a razão e não a investigação empírica pura."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O texto critica a mera repetição ou acumulação de opiniões de autoridades passadas (como Platão e Aristóteles)."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O autor rejeita dogmas e imposições, buscando o uso autônomo da razão."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "O fragmento enfatiza que o verdadeiro conhecimento exige a capacidade própria de formular juízos e resolver problemas, destacando a autonomia do sujeito pensante."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A discussão central é epistemológica (sobre o conhecimento e a razão), e não propriamente da ética ou do agente moral."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto de René Descartes enfatiza o papel ativo do sujeito no ato de conhecer, criticando a mera memorização de ideias alheias."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2016",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

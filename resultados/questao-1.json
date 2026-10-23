@@ -1,0 +1,102 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 1,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-1.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Analisar a importância dos valores éticos na estruturação política das sociedades."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia Moderna e Contemporânea",
+    "conteudos_relacionados": [
+      "Schopenhauer",
+      "Ética",
+      "Felicidade"
+    ],
+    "assunto": "A filosofia de Schopenhauer e o conceito de resignação",
+    "objeto_de_analise": "O trecho de Schopenhauer sobre o desejo e a resignação",
+    "fenomeno_conceito": "Resignação e independência interior frente aos desejos"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não aborda relacionamentos afetivos, mas sim a relação entre a satisfação de desejos e a resignação."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "Schopenhauer, expoente do pessimismo filosófico, defende que a verdadeira liberdade e a felicidade duradoura vêm da negação da vontade e da independência interior em relação aos desejos passageiros."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O texto não trata do conhecimento empírico ou de sua fugacidade."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A liberdade de expressão religiosa não é o tema abordado no fragmento."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O texto critica a busca por prazeres efêmeros, comparando-a à esmola que apenas prolonga a fome, em oposição à resignação."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a filosofia de Schopenhauer.",
+      "A alternativa B sintetiza corretamente a ideia de 'resignação' e 'fortuna herdada' como independência interior."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2016",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

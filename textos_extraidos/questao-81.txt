@@ -1,0 +1,15 @@
+QUESTÃO 81
+
+A lipofilia é um dos fatores fundamentais para o planejamento de um fármaco. Ela mede o grau de afinidade que a substância tem com ambientes apolares, podendo ser avaliada por seu coeficiente de partição.
+
+[FIGURA: Estrutura química básica de um esteroide com o núcleo ciclopentanoperidrofenantreno contendo um grupo carbonila (C=O) no anel A, uma ligação dupla entre os carbonos 4 e 5, dois grupos metila (CH3) nas posições angulares e átomos de hidrogênio (H) com indicações estereochemicas de cunha tracejada e cheia. Ao lado da estrutura principal, há uma legenda indicando que o substituinte X na cadeia lateral pode ser: X = OH para a Testosterona; X = H para o Composto 1; e X = CH3 para o Composto 2.]
+
+NOGUEIRA, L. J.; MONTANARI, C. A.; DONNICI, C. L. Histórico da evolução da química medicinal e a importância da lipofilia: de Hipócrates e Galeno a Paracelsus e as contribuições de Overton e de Hansch. Revista Virtual de Química, n. 3, 2009 (adaptado).
+
+Em relação ao coeficiente de partição da testosterona, as lipofilias dos compostos 1 e 2 são, respectivamente,
+
+A menor e menor que a lipofilia da testosterona.
+B menor e maior que a lipofilia da testosterona.
+C maior e menor que a lipofilia da testosterona.
+D maior e maior que a lipofilia da testosterona.
+E menor e igual à lipofilia da testosterona.

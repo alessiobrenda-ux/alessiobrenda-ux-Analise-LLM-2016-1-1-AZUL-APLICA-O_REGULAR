@@ -1,0 +1,110 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2016,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "APLICAÇÃO_REGULAR"
+    },
+    "identificacao_questao": {
+      "numero": 90,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-90.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CN",
+      "nome": "Ciências da Natureza e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C8",
+      "descricao": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas."
+    },
+    "habilidade_principal": {
+      "id": "H13",
+      "descricao": "Reconhecer mecanismos de transmissão da vida, prevendo ou explicando a manifestação de características dos seres vivos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H14",
+        "descricao": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Biologia Molecular",
+    "conteudos_relacionados": [
+      "Origem da Vida",
+      "Genética"
+    ],
+    "assunto": "Origem comum da vida e processos biológicos universais",
+    "objeto_de_analise": "Universalidade do código genético e da síntese proteica",
+    "fenomeno_conceito": "Síntese proteica",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": false,
+        "justificativa": "O desenvolvimento embrionário não ocorre em todos os seres vivos (como em unicelulares, plantas e fungos)."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "A reprodução sexuada não é universal, pois muitos organismos se reproduzem de forma assexuada."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "A respiração aeróbica não está presente em todos os seres vivos, existindo organismos anaeróbicos estritos."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "A excreção urinária é característica de animais com sistemas excretores complexos, não sendo universal."
+      },
+      {
+        "alternativa": "E",
+        "correta": true,
+        "justificativa": "A síntese proteica mediada por ribossomos e pelo código genético universal é um processo comum a todas as formas de vida conhecidas, corroborando a hipótese de ancestralidade comum."
+      }
+    ],
+    "auditoria_da_ia": {
+      "modelo": "gpt-4o",
+      "versao": "2024-05-13",
+      "datetime": "2026-06-06T00:00:00Z",
+      "confianca": 1.0,
+      "evidências": [
+        "A questão aborda a universalidade do processo de síntese proteica como evidência de ancestralidade comum."
+      ],
+      "proveniencia": {
+        "arquivo_questao": "ENEM 2016",
+        "arquivo_matriz": "Matriz ENEM"
+      },
+      "validacao_humana": {
+        "validado": false,
+        "data_validacao": null
+      }
+    },
+    "estudante": {
+      "nome_completo": null,
+      "colegio": null,
+      "turma": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Brenda Vitória Soares Alessio",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}
